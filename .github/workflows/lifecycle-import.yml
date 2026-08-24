@@ -28,7 +28,7 @@ jobs:
         
     - name: Transform File
       run: |
-        python transform.py
+        python scripts/transform.py
 
     - name: Commit Changes
       run: |
