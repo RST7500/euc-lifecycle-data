@@ -40,18 +40,3 @@ jobs:
         git commit -m "Lifecycle update" || true
 
         git push
-        
-      - name: Commit
-      
-        run: |
-
-        git config user.name github-action
-
-        git config user.email action@github.com
-
-        git add .
-
-        git diff --stagged --quiet || \
-        git commit -m "Microsoft Lifecycle Refresh"
-
-        git push
