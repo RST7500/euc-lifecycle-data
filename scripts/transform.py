@@ -9,15 +9,15 @@ result = pd.DataFrame()
 result["Vendor"] = "Microsoft"
 
 result["Product"] = (
-    df["Product"]
+    df["Product Listing Name"]
 )
 
 result["Version"] = (
-    df["Version"]
+    df["Edition"]
 )
 
 result["LifecyclePolicy"] = (
-    df["Lifecycle Policy"]
+    df["Support Policy"]
 )
 
 result["StartDate"] = (
@@ -25,7 +25,7 @@ result["StartDate"] = (
 )
 
 result["EndOfSupport"] = (
-    df["End Date"]
+    df["End of Support"]
 )
 
 today = pd.Timestamp.today()
