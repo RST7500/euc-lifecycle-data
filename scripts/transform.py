@@ -32,7 +32,8 @@ today = pd.Timestamp.today()
 
 result["EndOfSupport"] = (
     pd.to_datetime(
-        result["EndOfSupport"]
+        result["EndOfSupport"],
+        errors='coerce'
     )
 )
 
