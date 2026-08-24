@@ -1,0 +1,2944 @@
+Vendor,Product,Version,LifecyclePolicy,StartDate,EndOfSupport,DaysToEOS,LifecycleStatus
+,Access 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Access 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Access 2016,Standard,Fixed,2015-09-22,,,UNKNOWN
+,Access 2019,Standard,Fixed,2018-09-24,,,UNKNOWN
+,Advanced Threat Analytics 1.X,,Fixed,2015-11-25,,,UNKNOWN
+,Adxstudio Portals v6.x or prior,,Fixed,2015-09-29,,,UNKNOWN
+,Adxstudio Portals v7.x,,Fixed,2015-09-29,,,UNKNOWN
+,Alacris Identity Validation Server/Client,,Fixed,2006-03-07,,,UNKNOWN
+,Apache Spark pool,,,,,,UNKNOWN
+,Api Management,,,,,,UNKNOWN
+,Api Management,,,,,,UNKNOWN
+,API Management stv1,,Modern,2016-09-20,,,UNKNOWN
+,App service,,,,,,UNKNOWN
+,App service,,,,,,UNKNOWN
+,App service,,,,,,UNKNOWN
+,App service,,,,,,UNKNOWN
+,App Service Environment version 1 and 2,,Modern,2015-04-29,,,UNKNOWN
+,AppFabric 1.1 for Windows Server,,Fixed,2012-02-11,,,UNKNOWN
+,Application gateway,,,,,,UNKNOWN
+,Application gateway,,,,,,UNKNOWN
+,Application Insights,,,,,,UNKNOWN
+,AssetMetrix,,Modern,2007-12-01,,,UNKNOWN
+,Azure Active Directory (AD) Connect,,Modern,2014-09-01,,,UNKNOWN
+,Azure Active Directory (AD) Connect,,Modern,2014-09-01,,,UNKNOWN
+,Azure Basic Load Balancer,,Modern,2015-06-30,,,UNKNOWN
+,Azure BizTalk Services,,Modern,2013-11-21,,,UNKNOWN
+,Azure Cache for Redis on Cloud Services (Classic),,Modern,2014-09-25,,,UNKNOWN
+,Azure Classic Administrator Roles,,Modern,2010-02-01,,,UNKNOWN
+,Azure Cloud Services (classic),,Modern,2008-10-27,,,UNKNOWN
+,Azure Container Service,,Modern,2016-04-18,,,UNKNOWN
+,Azure CycleCloud,,Modern,2018-08-01,,,UNKNOWN
+,Azure Data Lake Storage Gen1,,Modern,2016-01-26,,,UNKNOWN
+,Azure Database for MariaDB,,Modern,2019-06-12,,,UNKNOWN
+,Azure Database for MySQL Single Server,,Modern,2018-04-20,,,UNKNOWN
+,Azure Database for PostgreSQL flexible server,,,,,,UNKNOWN
+,Azure Dev Spaces,,Modern,2019-04-29,,,UNKNOWN
+,Azure DevOps Server 2019,,Fixed,2019-03-05,,,UNKNOWN
+,Azure Edge Zones Enterprise,,Modern,2023-10-01,,,UNKNOWN
+,Azure HPC Cache,,Modern,2019-09-18,,,UNKNOWN
+,Azure Information Protection classic client,,Modern,2016-10-01,,,UNKNOWN
+,Azure IoT Edge,,Modern,2018-06-28,,,UNKNOWN
+,Azure IoT Edge,,Modern,2018-06-28,,,UNKNOWN
+,Azure IoT Edge,,Modern,2018-06-28,,,UNKNOWN
+,Azure IoT Edge,,Modern,2018-06-28,,,UNKNOWN
+,Azure IoT Edge,,Modern,2018-06-28,,,UNKNOWN
+,Azure Kinect SDK,,Modern,2019-06-27,,,UNKNOWN
+,Azure Kubernetes Service (AKS) - Edge Essentials,,Modern,2023-03-13,,,UNKNOWN
+,Azure Metrics Advisor,,Modern,2021-11-01,,,UNKNOWN
+,Azure Mobile Engagement,,Modern,2015-10-01,,,UNKNOWN
+,Azure Power BI Workspace Collection,,Modern,2016-03-31,,,UNKNOWN
+,Azure Purview,,Modern,2021-10-01,,,UNKNOWN
+,Azure Remote Rendering,,Modern,2021-03-01,,,UNKNOWN
+,Azure RemoteApp,,Modern,2015-03-11,,,UNKNOWN
+,Azure Scheduler,,Modern,2014-07-01,,,UNKNOWN
+,Azure Service Fabric,,Modern,2016-09-26,,,UNKNOWN
+,Azure Service Map,,Modern,2018-05-29,,,UNKNOWN
+,Azure Spatial Anchors,,Modern,2019-02-25,,,UNKNOWN
+,Azure SQL Edge,,Modern,2021-03-01,,,UNKNOWN
+,Azure SQL Managed Instance,,Modern,2018-10-01,,,UNKNOWN
+,Azure Stack HCI,,Modern,2020-12-10,,,UNKNOWN
+,Azure Stack Hub,,Modern,2017-08-31,,,UNKNOWN
+,Azure StorSimple 1200 Series,,Fixed,2016-10-28,,,UNKNOWN
+,Azure StorSimple 8000 Series,,Fixed,2014-11-01,,,UNKNOWN
+,Azure Synapse Analytics,,Modern,2022-11-16,,,UNKNOWN
+,Azure Unmanaged Disks,,Modern,2020-01-01,,,UNKNOWN
+,Azure vFXT,,Modern,2018-11-16,,,UNKNOWN
+,Azure Virtual Machine,,Modern,2012-06-07,,,UNKNOWN
+,BizTalk Adapter for MQSeries 2005,,Fixed,2004-12-10,,,UNKNOWN
+,BizTalk Adapter for Web Services Enhancement 2.0,,Fixed,2005-05-10,,,UNKNOWN
+,BizTalk Adapter for Web Services Enhancement 2.0,,Fixed,2005-05-10,,,UNKNOWN
+,BizTalk Server 2009,Branch,Fixed,2009-06-21,,,UNKNOWN
+,BizTalk Server 2009,Developer,Fixed,2009-06-21,,,UNKNOWN
+,BizTalk Server 2009,Enterprise,Fixed,2009-06-21,,,UNKNOWN
+,BizTalk Server 2009,Enterprise RFID,Fixed,2009-06-21,,,UNKNOWN
+,BizTalk Server 2009,Standard,Fixed,2009-06-21,,,UNKNOWN
+,BizTalk Server 2010,Branch,Fixed,2010-11-14,,,UNKNOWN
+,BizTalk Server 2010,Developer,Fixed,2010-11-14,,,UNKNOWN
+,BizTalk Server 2010,Enterprise,Fixed,2010-11-14,,,UNKNOWN
+,BizTalk Server 2010,Enterprise RFID,Fixed,2010-11-14,,,UNKNOWN
+,BizTalk Server 2010,Standard,Fixed,2010-11-14,,,UNKNOWN
+,BizTalk Server 2013,Branch,Fixed,2013-06-12,,,UNKNOWN
+,BizTalk Server 2013,Developer,Fixed,2013-06-12,,,UNKNOWN
+,BizTalk Server 2013,Enterprise,Fixed,2013-06-12,,,UNKNOWN
+,BizTalk Server 2013,Standard,Fixed,2013-06-12,,,UNKNOWN
+,BizTalk Server 2013 R2,Branch,Fixed,2014-07-31,,,UNKNOWN
+,BizTalk Server 2013 R2,Developer,Fixed,2014-07-31,,,UNKNOWN
+,BizTalk Server 2013 R2,Enterprise,Fixed,2014-07-31,,,UNKNOWN
+,BizTalk Server 2013 R2,Standard,Fixed,2014-07-31,,,UNKNOWN
+,Classic Application Gateway,,Modern,2017-11-21,,,UNKNOWN
+,Classic ExpressRoute Gateway,,Modern,2014-08-14,,,UNKNOWN
+,Classic Reserved IP Addresses,,Modern,2014-05-12,,,UNKNOWN
+,Classic Storage Accounts,,Modern,2010-02-01,,,UNKNOWN
+,Classic Virtual Network,,Modern,2014-08-14,,,UNKNOWN
+,Classic VPN Gateway,,Modern,2014-08-14,,,UNKNOWN
+,Cloud Platform System,Standard,Fixed,2015-01-29,,,UNKNOWN
+,Cognitive Service,,,,,,UNKNOWN
+,Cognitive Service,,,,,,UNKNOWN
+,Cognitive Service,,,,,,UNKNOWN
+,Cosmos DB account,,,,,,UNKNOWN
+,Cosmos DB account,,,,,,UNKNOWN
+,Cosmos DB account,,,,,,UNKNOWN
+,Duet Enterprise for Microsoft SharePoint and SAP,,Fixed,2011-03-16,,,UNKNOWN
+,Duet Enterprise for Microsoft SharePoint and SAP,,Fixed,2011-03-16,,,UNKNOWN
+,Duet for Microsoft Office and SAP,,Fixed,2006-10-28,,,UNKNOWN
+,Dynamics 365 Business Central,,Modern,2016-11-01,,,UNKNOWN
+,Dynamics 365 Business Central on-premises (Fixed Policy),,Fixed,2018-10-01,,,UNKNOWN
+,Dynamics 365 Business Central on-premises (Fixed Policy),,Fixed,2018-10-01,,,UNKNOWN
+,Dynamics 365 Business Central on-premises (Modern Policy),,Modern,2019-10-01,,,UNKNOWN
+,Dynamics 365 Business Central on-premises (Modern Policy),,Modern,2019-10-01,,,UNKNOWN
+,Dynamics 365 Business Central on-premises (Modern Policy),,Modern,2019-10-01,,,UNKNOWN
+,Dynamics 365 Business Central on-premises (Modern Policy),,Modern,2019-10-01,,,UNKNOWN
+,Dynamics 365 Business Central on-premises (Modern Policy),,Modern,2019-10-01,,,UNKNOWN
+,Dynamics 365 Business Central on-premises (Modern Policy),,Modern,2019-10-01,,,UNKNOWN
+,Dynamics 365 Business Central on-premises (Modern Policy),,Modern,2019-10-01,,,UNKNOWN
+,Dynamics 365 Business Central on-premises (Modern Policy),,Modern,2019-10-01,,,UNKNOWN
+,Dynamics 365 Business Central on-premises (Modern Policy),,Modern,2019-10-01,,,UNKNOWN
+,Dynamics 365 Business Central on-premises (Modern Policy),,Modern,2019-10-01,,,UNKNOWN
+,Dynamics 365 Business Central on-premises (Modern Policy),,Modern,2019-10-01,,,UNKNOWN
+,Dynamics 365 Commerce,,Modern,2017-07-01,,,UNKNOWN
+,Dynamics 365 Customer Insights - Data,,Modern,2023-09-01,,,UNKNOWN
+,Dynamics 365 Customer Insights - Journeys,,Modern,2023-09-01,,,UNKNOWN
+,Dynamics 365 Field Service,,Modern,2016-05-02,,,UNKNOWN
+,Dynamics 365 Field Service (on-premises),,Modern,2016-05-02,,,UNKNOWN
+,"Dynamics 365 for Customer Engagement Apps, version 9.x (on-premises update)",,Fixed,2018-10-31,,,UNKNOWN
+,Dynamics 365 for Finance and Operations,Enterprise,Modern,2016-02-19,,,UNKNOWN
+,Dynamics 365 for Finance and Operations (on-premises),Enterprise,Modern,2017-06-15,,,UNKNOWN
+,Dynamics 365 for Talent,Onboard,Modern,2017-07-31,,,UNKNOWN
+,Dynamics 365 Human Resources,,Modern,2020-03-27,,,UNKNOWN
+,Dynamics 365 Intelligent Order Management,,Modern,2021-08-01,,,UNKNOWN
+,Dynamics 365 Layout,,Modern,2018-09-30,,,UNKNOWN
+,Dynamics 365 Product Insights,,Modern,2019-10-01,,,UNKNOWN
+,Dynamics 365 Project Operations,,Modern,2020-10-01,,,UNKNOWN
+,Dynamics 365 Remote Assist,,Modern,2018-09-30,,,UNKNOWN
+,Dynamics 365 Telecommunications Accelerator,,Modern,2021-05-01,,,UNKNOWN
+,Dynamics 9.0 GreatPlains,,Fixed,2005-12-19,,,UNKNOWN
+,Dynamics 9.0 GreatPlains,,Fixed,2005-12-19,,,UNKNOWN
+,Dynamics 9.0 GreatPlains,,Fixed,2005-12-19,,,UNKNOWN
+,Dynamics 9.0 GreatPlains,,Fixed,2005-12-19,,,UNKNOWN
+,Dynamics 9.0 GreatPlains,,Fixed,2005-12-19,,,UNKNOWN
+,Dynamics AX 2009,,Fixed,2008-08-14,,,UNKNOWN
+,Dynamics AX 2009,,Fixed,2008-08-14,,,UNKNOWN
+,Dynamics AX 2012,,Fixed,2011-09-25,,,UNKNOWN
+,Dynamics AX 2012 R2,,Fixed,2013-02-19,,,UNKNOWN
+,Dynamics AX 2012 R3,,Fixed,2014-08-01,,,UNKNOWN
+,Dynamics AX 4.0,,Fixed,2006-09-10,,,UNKNOWN
+,Dynamics AX 4.0,,Fixed,2006-09-10,,,UNKNOWN
+,Dynamics AX 4.0,,Fixed,2006-09-10,,,UNKNOWN
+,Dynamics C5 2008,,Fixed,2007-12-01,,,UNKNOWN
+,Dynamics C5 2008,,Fixed,2007-12-01,,,UNKNOWN
+,Dynamics C5 2010,Standard,Fixed,2009-11-30,,,UNKNOWN
+,Dynamics C5 2010,Standard,Fixed,2009-11-30,,,UNKNOWN
+,Dynamics C5 2010,Standard,Fixed,2009-11-30,,,UNKNOWN
+,Dynamics C5 2012,Standard,Fixed,2012-01-10,,,UNKNOWN
+,Dynamics C5 2012,Standard,Fixed,2012-01-10,,,UNKNOWN
+,Dynamics C5 2012,Standard,Fixed,2012-01-10,,,UNKNOWN
+,Dynamics C5 2014,,Fixed,2013-12-29,,,UNKNOWN
+,Dynamics C5 2015,,Fixed,2014-12-17,,,UNKNOWN
+,Dynamics C5 2016,,Fixed,2016-01-03,,,UNKNOWN
+,Dynamics CRM 1.2,,Fixed,2003-10-31,,,UNKNOWN
+,Dynamics CRM 2011,,Fixed,2011-05-18,,,UNKNOWN
+,Dynamics CRM 2013,,Fixed,2014-01-12,,,UNKNOWN
+,Dynamics CRM 2013,,Fixed,2014-01-12,,,UNKNOWN
+,Dynamics CRM 2015,,Fixed,2015-02-11,,,UNKNOWN
+,Dynamics CRM 2016 (Dynamics 365),,Fixed,2015-11-30,,,UNKNOWN
+,Dynamics CRM 2016 (Dynamics 365),,Fixed,2015-11-30,,,UNKNOWN
+,Dynamics CRM 2016 (Dynamics 365),,Fixed,2015-11-30,,,UNKNOWN
+,Dynamics CRM 3.0,,Fixed,2005-12-01,,,UNKNOWN
+,Dynamics CRM 4.0,,Fixed,2008-02-29,,,UNKNOWN
+,Dynamics Entrepreneur Solution 2008,,Fixed,2008-01-13,,,UNKNOWN
+,Dynamics GP 10.0,,Fixed,2007-08-04,,,UNKNOWN
+,Dynamics GP 10.0,,Fixed,2007-08-04,,,UNKNOWN
+,Dynamics GP 10.0,,Fixed,2007-08-04,,,UNKNOWN
+,Dynamics GP 10.0,,Fixed,2007-08-04,,,UNKNOWN
+,Dynamics GP 10.0,,Fixed,2007-08-04,,,UNKNOWN
+,Dynamics GP 10.0,,Fixed,2007-08-04,,,UNKNOWN
+,Dynamics GP 2010,,Fixed,2010-06-15,,,UNKNOWN
+,Dynamics GP 2010,,Fixed,2010-06-15,,,UNKNOWN
+,Dynamics GP 2010,,Fixed,2010-06-15,,,UNKNOWN
+,Dynamics GP 2010,,Fixed,2010-06-15,,,UNKNOWN
+,Dynamics GP 2010,,Fixed,2010-06-15,,,UNKNOWN
+,Dynamics GP 2010 R2,,Fixed,2011-07-14,,,UNKNOWN
+,Dynamics GP 2013,,Fixed,2013-03-12,,,UNKNOWN
+,Dynamics GP 2013,,Fixed,2013-03-12,,,UNKNOWN
+,Dynamics GP 2013,,Fixed,2013-03-12,,,UNKNOWN
+,Dynamics GP 2013 R2,,Fixed,2014-08-21,,,UNKNOWN
+,Dynamics GP 2015,,Fixed,2015-02-18,,,UNKNOWN
+,Dynamics GP 2015 R2,,Fixed,2015-08-30,,,UNKNOWN
+,Dynamics Marketing,,Modern,2014-05-30,,,UNKNOWN
+,Dynamics Mobile Development Tools,,Component,2008-01-12,,,UNKNOWN
+,Dynamics NAV 2009,,Fixed,2009-02-12,,,UNKNOWN
+,Dynamics NAV 2009,,Fixed,2009-02-12,,,UNKNOWN
+,Dynamics NAV 2009 R2,,Fixed,2011-03-15,,,UNKNOWN
+,Dynamics NAV 2013,,Fixed,2012-12-19,,,UNKNOWN
+,Dynamics NAV 2013 R2,,Fixed,2013-12-30,,,UNKNOWN
+,Dynamics NAV 2015,,Fixed,2014-12-17,,,UNKNOWN
+,Dynamics NAV 2016,,Fixed,2016-01-03,,,UNKNOWN
+,Dynamics NAV 4.0,,Fixed,2004-12-12,,,UNKNOWN
+,Dynamics NAV 4.0,,Fixed,2004-12-12,,,UNKNOWN
+,Dynamics NAV 4.0,,Fixed,2004-12-12,,,UNKNOWN
+,Dynamics NAV 4.0,,Fixed,2004-12-12,,,UNKNOWN
+,Dynamics NAV 5.0,,Fixed,2007-04-01,,,UNKNOWN
+,Dynamics NAV 5.0,,Fixed,2007-04-01,,,UNKNOWN
+,Dynamics POS 2.0,,Fixed,2007-01-27,,,UNKNOWN
+,Dynamics POS 2009,,Fixed,2009-06-17,,,UNKNOWN
+,Dynamics POS 2009,,Fixed,2009-06-17,,,UNKNOWN
+,Dynamics POS 2009,,Fixed,2009-06-17,,,UNKNOWN
+,Dynamics Retail Management System 1.3,Headquarters,Fixed,2006-01-31,,,UNKNOWN
+,Dynamics Retail Management System 1.3,Store Operations,Fixed,2006-01-31,,,UNKNOWN
+,Dynamics Retail Management System 2.0,Headquarters,Fixed,2007-07-31,,,UNKNOWN
+,Dynamics Retail Management System 2.0,Headquarters,Fixed,2007-07-31,,,UNKNOWN
+,Dynamics Retail Management System 2.0,Headquarters,Fixed,2007-07-31,,,UNKNOWN
+,Dynamics Retail Management System 2.0,Headquarters,Fixed,2007-07-31,,,UNKNOWN
+,Dynamics Retail Management System 2.0,Headquarters,Fixed,2007-07-31,,,UNKNOWN
+,Dynamics Retail Management System 2.0,Store Operations,Fixed,2007-07-31,,,UNKNOWN
+,Dynamics Retail Management System 2.0,Store Operations,Fixed,2007-07-31,,,UNKNOWN
+,Dynamics Retail Management System 2.0,Store Operations,Fixed,2007-07-31,,,UNKNOWN
+,Dynamics Retail Management System 2.0,Store Operations,Fixed,2007-07-31,,,UNKNOWN
+,Dynamics Retail Management System 2.0,Store Operations,Fixed,2007-07-31,,,UNKNOWN
+,Dynamics SL 2011,,Fixed,2011-06-15,,,UNKNOWN
+,Dynamics SL 2011,,Fixed,2011-06-15,,,UNKNOWN
+,Dynamics SL 2011,,Fixed,2011-06-15,,,UNKNOWN
+,Dynamics SL 2011,,Fixed,2011-06-15,,,UNKNOWN
+,Dynamics SL 2015,,Fixed,2014-12-29,,,UNKNOWN
+,Dynamics SL 6.5,,Fixed,2006-01-14,,,UNKNOWN
+,Dynamics SL 6.5,,Fixed,2006-01-14,,,UNKNOWN
+,Dynamics SL 6.5,,Fixed,2006-01-14,,,UNKNOWN
+,Dynamics SL 6.5,,Fixed,2006-01-14,,,UNKNOWN
+,Dynamics SL 7.0,,Fixed,2007-08-31,,,UNKNOWN
+,Dynamics SL 7.0,,Fixed,2007-08-31,,,UNKNOWN
+,Dynamics SL 7.0,,Fixed,2007-08-31,,,UNKNOWN
+,Dynamics SL 7.0,,Fixed,2007-08-31,,,UNKNOWN
+,Dynamics SL 7.0,,Fixed,2007-08-31,,,UNKNOWN
+,Engyro Product Connectors for Microsoft Operations Manager 2005,,Fixed,2007-10-01,,,UNKNOWN
+,Engyro Product Connectors for Microsoft System Center Operations Manager 2007,,Fixed,2007-10-01,,,UNKNOWN
+,Enhanced Mitigation Experience Toolkit (EMET),,Fixed,2016-12-30,,,UNKNOWN
+,Event Grid domain,,,,,,UNKNOWN
+,Event Grid Partner Namespace,,,,,,UNKNOWN
+,Event Grid topic,,,,,,UNKNOWN
+,Excel 2008 for Mac,,Fixed,2008-03-12,,,UNKNOWN
+,Excel 2010,Home and Student,Fixed,2010-07-15,,,UNKNOWN
+,Excel 2010,Mobile,Fixed,2010-07-15,,,UNKNOWN
+,Excel 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Excel 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Excel 2016,Standard,Fixed,2015-09-22,,,UNKNOWN
+,Excel 2016 for Mac,,Fixed,2015-09-27,,,UNKNOWN
+,Excel 2019,Standard,Fixed,2018-09-24,,,UNKNOWN
+,Excel 2019 for Mac,,Fixed,2018-09-24,,,UNKNOWN
+,Excel for Mac 2011,,Fixed,2010-12-09,,,UNKNOWN
+,Exchange Server 2003,Enterprise,Fixed,2003-09-28,,,UNKNOWN
+,Exchange Server 2003,Enterprise,Fixed,2003-09-28,,,UNKNOWN
+,Exchange Server 2003,Enterprise,Fixed,2003-09-28,,,UNKNOWN
+,Exchange Server 2003,Standard,Fixed,2003-09-28,,,UNKNOWN
+,Exchange Server 2003,Standard,Fixed,2003-09-28,,,UNKNOWN
+,Exchange Server 2003,Standard,Fixed,2003-09-28,,,UNKNOWN
+,Exchange Server 2007,Enterprise,Fixed,2007-03-08,,,UNKNOWN
+,Exchange Server 2007,Enterprise,Fixed,2007-03-08,,,UNKNOWN
+,Exchange Server 2007,Enterprise,Fixed,2007-03-08,,,UNKNOWN
+,Exchange Server 2007,Enterprise,Fixed,2007-03-08,,,UNKNOWN
+,Exchange Server 2007,Standard,Fixed,2007-03-08,,,UNKNOWN
+,Exchange Server 2007,Standard,Fixed,2007-03-08,,,UNKNOWN
+,Exchange Server 2007,Standard,Fixed,2007-03-08,,,UNKNOWN
+,Exchange Server 2007,Standard,Fixed,2007-03-08,,,UNKNOWN
+,Exchange Server 2010,Enterprise,Fixed,2009-11-09,,,UNKNOWN
+,Exchange Server 2010,Enterprise,Fixed,2009-11-09,,,UNKNOWN
+,Exchange Server 2010,Enterprise,Fixed,2009-11-09,,,UNKNOWN
+,Exchange Server 2010,Enterprise,Fixed,2009-11-09,,,UNKNOWN
+,Exchange Server 2010,Standard,Fixed,2009-11-09,,,UNKNOWN
+,Exchange Server 2010,Standard,Fixed,2009-11-09,,,UNKNOWN
+,Exchange Server 2010,Standard,Fixed,2009-11-09,,,UNKNOWN
+,Exchange Server 2010,Standard,Fixed,2009-11-09,,,UNKNOWN
+,Exchange Server 2013,Enterprise,Fixed,2013-01-09,,,UNKNOWN
+,Exchange Server 2013,Enterprise,Fixed,2013-01-09,,,UNKNOWN
+,Exchange Server 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Exchange Server 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Exchange Server 2016,Enterprise,Fixed,2015-10-01,,,UNKNOWN
+,Exchange Server 2016,Standard,Fixed,2015-10-01,,,UNKNOWN
+,Exchange Server 2019,Enterprise,Fixed,2018-10-22,,,UNKNOWN
+,Exchange Server 2019,Standard,Fixed,2018-10-22,,,UNKNOWN
+,Expression,Blend,Fixed,2007-07-27,,,UNKNOWN
+,Expression,Design,Fixed,2007-07-27,,,UNKNOWN
+,Expression,Encoder,Fixed,2007-07-27,,,UNKNOWN
+,Expression,Studio,Fixed,2007-07-27,,,UNKNOWN
+,Expression 2,Blend,Fixed,2008-07-24,,,UNKNOWN
+,Expression 2,Design,Fixed,2008-07-24,,,UNKNOWN
+,Expression 2,Encoder,Fixed,2008-07-24,,,UNKNOWN
+,Expression 2,Studio,Fixed,2008-07-24,,,UNKNOWN
+,Expression 2,Web,Fixed,2008-07-24,,,UNKNOWN
+,Expression 3,Design,Fixed,2009-10-19,,,UNKNOWN
+,Expression 3,Encoder,Fixed,2009-10-19,,,UNKNOWN
+,Expression 3,Studio,Fixed,2009-10-19,,,UNKNOWN
+,Expression 3,Web,Fixed,2009-10-19,,,UNKNOWN
+,Expression 4,Design,Fixed,2010-08-26,,,UNKNOWN
+,Expression 4,Encoder,Fixed,2010-08-26,,,UNKNOWN
+,Expression 4,Studio Ultimate,Fixed,2010-08-26,,,UNKNOWN
+,Expression 4,Web,Fixed,2010-08-26,,,UNKNOWN
+,"FAST Search Server 2010 (for Internet Sites, for Internal Applications)",Internal Applications,Fixed,2010-06-16,,,UNKNOWN
+,"FAST Search Server 2010 (for Internet Sites, for Internal Applications)",Internet Sites,Fixed,2010-06-16,,,UNKNOWN
+,"FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)",for SharePoint,Fixed,2010-06-16,,,UNKNOWN
+,"FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)",for SharePoint,Fixed,2010-06-16,,,UNKNOWN
+,"FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)",for SharePoint,Fixed,2010-06-16,,,UNKNOWN
+,"FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)",for SharePoint Internet Sites,Fixed,2010-06-16,,,UNKNOWN
+,"FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)",for SharePoint Internet Sites,Fixed,2010-06-16,,,UNKNOWN
+,"FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)",for SharePoint Internet Sites,Fixed,2010-06-16,,,UNKNOWN
+,Forefront Protection 2010 for Exchange Server,,Fixed,2009-11-01,,,UNKNOWN
+,Forefront Protection 2010 for SharePoint,,Fixed,2010-07-15,,,UNKNOWN
+,Forefront Security for Exchange Server,,Fixed,2007-03-08,,,UNKNOWN
+,Forefront Security for Exchange Server,,Fixed,2007-03-08,,,UNKNOWN
+,Forefront Security for Exchange Server,,Fixed,2007-03-08,,,UNKNOWN
+,Forefront Security for Office Communications Server,,Fixed,2009-06-09,,,UNKNOWN
+,Forefront Security for Sharepoint,,Fixed,2007-03-08,,,UNKNOWN
+,Forefront Security for Sharepoint,,Fixed,2007-03-08,,,UNKNOWN
+,Forefront Security for Sharepoint,,Fixed,2007-03-08,,,UNKNOWN
+,Forefront Security for Sharepoint,,Fixed,2007-03-08,,,UNKNOWN
+,Front Door Profile,,,,,,UNKNOWN
+,FSLogix,,Modern,2018-11-19,,,UNKNOWN
+,FSLogix,,Modern,2018-11-19,,,UNKNOWN
+,FSLogix,,Modern,2018-11-19,,,UNKNOWN
+,FSLogix,,Modern,2018-11-19,,,UNKNOWN
+,FSLogix,,Modern,2018-11-19,,,UNKNOWN
+,FSLogix,,Modern,2018-11-19,,,UNKNOWN
+,FSLogix,,Modern,2018-11-19,,,UNKNOWN
+,FSLogix,,Modern,2018-11-19,,,UNKNOWN
+,GPOVault,1.0,Fixed,2007-01-01,,,UNKNOWN
+,GPOVault,2.0,Fixed,2007-01-01,,,UNKNOWN
+,GPOVault,Enterprise 1.0,Fixed,2007-01-01,,,UNKNOWN
+,GPOVault,Enterprise 2.0,Fixed,2007-01-01,,,UNKNOWN
+,Groove 3.1,Enterprise Backup Service,Fixed,2004-07-01,,,UNKNOWN
+,Groove 3.1,Enterprise Data Bridge,Fixed,2004-07-01,,,UNKNOWN
+,Groove 3.1,Enterprise Relay Server,Fixed,2004-07-01,,,UNKNOWN
+,Groove 3.1,Hosted Management Services,Fixed,2004-07-01,,,UNKNOWN
+,Groove 3.1,Hosted Relay Services,Fixed,2004-07-01,,,UNKNOWN
+,Groove 3.1,Office Project,Fixed,2004-07-01,,,UNKNOWN
+,Groove 3.1,Virtual Office File Sharing,Fixed,2004-07-01,,,UNKNOWN
+,Groove 3.1,Virtual Office Professional,Fixed,2004-07-01,,,UNKNOWN
+,Groove 3.1,Web Services Development Kit,Fixed,2004-07-01,,,UNKNOWN
+,Groove Server 2010,,Fixed,2010-06-16,,,UNKNOWN
+,Groove Server 2010,,Fixed,2010-06-16,,,UNKNOWN
+,Groove Server 2010,,Fixed,2010-06-16,,,UNKNOWN
+,HDInsight cluster,,,,,,UNKNOWN
+,HDInsight cluster,,,,,,UNKNOWN
+,HDInsight cluster,,,,,,UNKNOWN
+,HDInsight cluster,,,,,,UNKNOWN
+,HockeyApp,,Modern,2015-12-31,,,UNKNOWN
+,HPC Pack 2008,,Fixed,2008-12-29,,,UNKNOWN
+,HPC Pack 2008,,Fixed,2008-12-29,,,UNKNOWN
+,HPC Pack 2008,,Fixed,2008-12-29,,,UNKNOWN
+,HPC Pack 2008 R2,,Fixed,2010-10-17,,,UNKNOWN
+,HPC Pack 2008 R2,,Fixed,2010-10-17,,,UNKNOWN
+,HPC Pack 2008 R2,,Fixed,2010-10-17,,,UNKNOWN
+,HPC Pack 2008 R2,,Fixed,2010-10-17,,,UNKNOWN
+,HPC Pack 2008 R2,,Fixed,2010-10-17,,,UNKNOWN
+,HPC Pack 2012,,Fixed,2013-03-11,,,UNKNOWN
+,HPC Pack 2012 R2,,Fixed,2014-04-14,,,UNKNOWN
+,HPC Pack 2019,,Modern,2020-06-10,,,UNKNOWN
+,HPC Pack burst to Cloud Services,,Modern,2010-10-17,,,UNKNOWN
+,Hyper-V Server 2008,,Fixed,2008-12-30,,,UNKNOWN
+,Hyper-V Server 2008 R2,,Fixed,2009-10-22,,,UNKNOWN
+,Hyper-V Server 2008 R2,,Fixed,2009-10-22,,,UNKNOWN
+,Hyper-V Server 2012,,Fixed,2012-10-30,,,UNKNOWN
+,Hyper-V Server 2012 R2,,Fixed,2013-11-25,,,UNKNOWN
+,InfoPath 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,InMage Scout in Azure Site Recovery,,Modern,2014-08-01,,,UNKNOWN
+,Integration Services Environment,,Modern,2019-02-25,,,UNKNOWN
+,Internet Explorer 10,,Component,2012-10-30,,,UNKNOWN
+,Internet Explorer 11,,Component,2013-11-13,,,UNKNOWN
+,Internet Explorer 11 on Windows 10 Semi-Annual Channel (SAC),,Component,2013-11-13,,,UNKNOWN
+,Internet Explorer 7,,Component,2006-10-18,,,UNKNOWN
+,Internet Explorer 8,,Component,2009-06-17,,,UNKNOWN
+,Internet Explorer 9,,Component,2011-03-15,,,UNKNOWN
+,Internet Information Services (IIS),,Component,2003-05-28,,,UNKNOWN
+,Internet Information Services (IIS),,Component,2003-05-28,,,UNKNOWN
+,Internet Information Services (IIS),,Component,2003-05-28,,,UNKNOWN
+,Internet Information Services (IIS),,Component,2003-05-28,,,UNKNOWN
+,Internet Information Services (IIS),,Component,2003-05-28,,,UNKNOWN
+,Internet Information Services (IIS),,Component,2003-05-28,,,UNKNOWN
+,Internet Information Services (IIS),,Component,2003-05-28,,,UNKNOWN
+,Internet Information Services (IIS),,Component,2003-05-28,,,UNKNOWN
+,Internet Information Services (IIS),,Component,2003-05-28,,,UNKNOWN
+,Internet Information Services (IIS),,Component,2003-05-28,,,UNKNOWN
+,Kaizala,,Modern,2017-07-26,,,UNKNOWN
+,Kubernetes - Azure Arc,,,,,,UNKNOWN
+,Kubernetes service,,,,,,UNKNOWN
+,Kubernetes service,,,,,,UNKNOWN
+,Kubernetes service,,,,,,UNKNOWN
+,Learning Essentials 2.0 for Microsoft Office,,Component,2007-04-30,,,UNKNOWN
+,Learning Essentials v1.5 with SCORM,,Component,2006-12-06,,,UNKNOWN
+,Load balancer,,,,,,UNKNOWN
+,Log Analytics workspace,,,,,,UNKNOWN
+,Lync 2013,SDK,Fixed,2013-01-09,,,UNKNOWN
+,Lync 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Lync Meeting Room,,Fixed,2013-09-01,,,UNKNOWN
+,Machine Learning Studio (classic),,Modern,2015-05-18,,,UNKNOWN
+,Microsoft .NET and .NET Core,,Modern,2016-06-27,,,UNKNOWN
+,Microsoft .NET and .NET Core,,Modern,2016-06-27,,,UNKNOWN
+,Microsoft .NET and .NET Core,,Modern,2016-06-27,,,UNKNOWN
+,Microsoft .NET and .NET Core,,Modern,2016-06-27,,,UNKNOWN
+,Microsoft .NET and .NET Core,,Modern,2016-06-27,,,UNKNOWN
+,Microsoft .NET and .NET Core,,Modern,2016-06-27,,,UNKNOWN
+,Microsoft .NET and .NET Core,,Modern,2016-06-27,,,UNKNOWN
+,Microsoft .NET and .NET Core,,Modern,2016-06-27,,,UNKNOWN
+,Microsoft .NET and .NET Core,,Modern,2016-06-27,,,UNKNOWN
+,Microsoft .NET and .NET Core,,Modern,2016-06-27,,,UNKNOWN
+,Microsoft .NET and .NET Core,,Modern,2016-06-27,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft .NET Micro Framework Porting Kit 3.0,,Fixed,2009-01-25,,,UNKNOWN
+,Microsoft 365,Business,Modern,2015-09-22,,,UNKNOWN
+,Microsoft 365,Education,Modern,2015-09-22,,,UNKNOWN
+,Microsoft 365,Enterprise,Modern,2015-09-22,,,UNKNOWN
+,Microsoft 365,Government,Modern,2015-09-22,,,UNKNOWN
+,Microsoft 365 Apps,for business,Modern,2015-09-22,,,UNKNOWN
+,Microsoft 365 Apps,for enterprise,Modern,2015-09-22,,,UNKNOWN
+,Microsoft 365 Security Incident Response,,Modern,2023-10-13,,,UNKNOWN
+,Microsoft ActiveSync 4.2,,Fixed,2006-06-22,,,UNKNOWN
+,Microsoft ActiveSync 4.5,,Fixed,2007-05-12,,,UNKNOWN
+,Microsoft Advanced Group Policy Management 4.0,,Fixed,2009-11-19,,,UNKNOWN
+,Microsoft Advanced Group Policy Management 4.0,,Fixed,2009-11-19,,,UNKNOWN
+,Microsoft Advanced Group Policy Management 4.0,,Fixed,2009-11-19,,,UNKNOWN
+,Microsoft Advanced Group Policy Management 4.0,,Fixed,2009-11-19,,,UNKNOWN
+,Microsoft Antigen,9.0 for Exchange,Fixed,2006-07-17,,,UNKNOWN
+,Microsoft Antigen,Enterprise Manager 9.0,Fixed,2006-07-17,,,UNKNOWN
+,Microsoft Antigen,for SMTP Gateways,Fixed,2006-07-17,,,UNKNOWN
+,Microsoft Antigen,Spam Manager,Fixed,2006-07-17,,,UNKNOWN
+,Microsoft App Container App,,,,,,UNKNOWN
+,Microsoft Application Virtualization 4.5,for Terminal Services,Fixed,2008-11-23,,,UNKNOWN
+,Microsoft Application Virtualization 4.5,for Terminal Services,Fixed,2008-11-23,,,UNKNOWN
+,Microsoft Application Virtualization 4.5,for Terminal Services,Fixed,2008-11-23,,,UNKNOWN
+,Microsoft Application Virtualization 4.5,for Windows Desktops,Fixed,2008-11-23,,,UNKNOWN
+,Microsoft Application Virtualization 4.5,for Windows Desktops,Fixed,2008-11-23,,,UNKNOWN
+,Microsoft Application Virtualization 4.5,for Windows Desktops,Fixed,2008-11-23,,,UNKNOWN
+,Microsoft Application Virtualization 4.6,for Remote Desktop Services,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization 4.6,for Remote Desktop Services,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization 4.6,for Remote Desktop Services,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization 4.6,for Remote Desktop Services,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization 4.6,for Windows Desktops,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization 4.6,for Windows Desktops,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization 4.6,for Windows Desktops,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization 4.6,for Windows Desktops,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization 4.6,Sequencer,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization 4.6,Sequencer,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization 4.6,Sequencer,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization 4.6,Sequencer,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization 5.0,for Remote Desktop Services,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization 5.0,for Remote Desktop Services,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization 5.0,for Remote Desktop Services,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization 5.0,for Remote Desktop Services,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization 5.0,for Terminal Services,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization 5.0,for Terminal Services,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization 5.0,for Terminal Services,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization 5.0,for Terminal Services,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization 5.0,for Windows Desktops,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization 5.0,for Windows Desktops,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization 5.0,for Windows Desktops,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization 5.0,for Windows Desktops,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization 5.1,for Remote Desktop Services,Fixed,2015-11-01,,,UNKNOWN
+,Microsoft Application Virtualization 5.1,for Windows Desktops,Fixed,2015-11-01,,,UNKNOWN
+,Microsoft Application Virtualization Hosting 4.5 for Windows Desktops,for Windows Desktops,Fixed,2008-11-23,,,UNKNOWN
+,Microsoft Application Virtualization Hosting 4.5 for Windows Desktops,for Windows Desktops,Fixed,2008-11-23,,,UNKNOWN
+,Microsoft Application Virtualization Hosting 4.5 for Windows Desktops,for Windows Desktops,Fixed,2008-11-23,,,UNKNOWN
+,Microsoft Application Virtualization Hosting 4.6 for Windows Desktops,for Windows Desktops,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization Hosting 4.6 for Windows Desktops,for Windows Desktops,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization Hosting 4.6 for Windows Desktops,for Windows Desktops,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization Hosting 4.6 for Windows Desktops,for Windows Desktops,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Application Virtualization Hosting 5.0 for Windows Desktops,for Windows Desktops,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization Hosting 5.0 for Windows Desktops,for Windows Desktops,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization Hosting 5.0 for Windows Desktops,for Windows Desktops,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization Hosting 5.0 for Windows Desktops,for Windows Desktops,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Application Virtualization Hosting 5.1 for Windows Desktops,for Windows Desktops,Fixed,2015-11-01,,,UNKNOWN
+,Microsoft Azure Virtual Machine (classic),,Modern,2012-06-07,,,UNKNOWN
+,Microsoft BitLocker Administration and Monitoring 1.0,,Fixed,2011-08-03,,,UNKNOWN
+,Microsoft BitLocker Administration and Monitoring 2.0,,Fixed,2013-05-16,,,UNKNOWN
+,Microsoft BitLocker Administration and Monitoring 2.0,,Fixed,2013-05-16,,,UNKNOWN
+,Microsoft BitLocker Administration and Monitoring 2.5,,Fixed,2014-05-01,,,UNKNOWN
+,Microsoft BitLocker Administration and Monitoring 2.5,,Fixed,2014-05-01,,,UNKNOWN
+,Microsoft BizTalk Accelerator for Financial Services 1.0,Enterprise,Fixed,2003-03-12,,,UNKNOWN
+,Microsoft BizTalk Accelerator for Financial Services 1.0,Standard,Fixed,2003-03-12,,,UNKNOWN
+,Microsoft BizTalk Accelerator for HIPAA 2.0,Enterprise,Fixed,2003-02-15,,,UNKNOWN
+,Microsoft BizTalk Accelerator for HIPAA 2.0,Standard,Fixed,2003-02-15,,,UNKNOWN
+,Microsoft BizTalk Accelerator for HIPAA 3.0,Enterprise,Fixed,2004-12-28,,,UNKNOWN
+,Microsoft BizTalk Accelerator for HIPAA 3.0,Standard,Fixed,2004-12-28,,,UNKNOWN
+,Microsoft BizTalk Accelerator for HL7 1.0,Standard,Fixed,2004-05-27,,,UNKNOWN
+,Microsoft BizTalk Accelerator for RosettaNet 3.0,Enterprise,Fixed,2005-02-22,,,UNKNOWN
+,Microsoft BizTalk Accelerator for RosettaNet 3.0,Standard,Fixed,2005-02-22,,,UNKNOWN
+,Microsoft BizTalk Accelerator for SWIFT 2.0,Enterprise,Fixed,2004-09-25,,,UNKNOWN
+,Microsoft BizTalk Accelerator for SWIFT 2.1,Enterprise,Fixed,2005-07-21,,,UNKNOWN
+,Microsoft BizTalk Accelerator for SWIFT 2.1,Enterprise,Fixed,2005-07-21,,,UNKNOWN
+,Microsoft BizTalk Accelerator for SWIFT 2.1,Standard,Fixed,2005-07-21,,,UNKNOWN
+,Microsoft BizTalk Accelerator for SWIFT 2.1,Standard,Fixed,2005-07-21,,,UNKNOWN
+,Microsoft BizTalk Accelerator for SWIFT 2.3,Enterprise,Fixed,2006-06-21,,,UNKNOWN
+,Microsoft BizTalk Accelerator for SWIFT 2.3,Enterprise,Fixed,2006-06-21,,,UNKNOWN
+,Microsoft BizTalk Accelerator for SWIFT 2.3,Standard,Fixed,2006-06-21,,,UNKNOWN
+,Microsoft BizTalk Accelerator for SWIFT 2.3,Standard,Fixed,2006-06-21,,,UNKNOWN
+,Microsoft BizTalk Adapter 2.0,for MSMQ,Fixed,2004-10-20,,,UNKNOWN
+,Microsoft BizTalk Adapter 2.0,for mySAP Business Suite,Fixed,2004-10-20,,,UNKNOWN
+,Microsoft BizTalk Adapter 2.0,for SAP,Fixed,2004-10-20,,,UNKNOWN
+,Microsoft BizTalk Adapters for Host Systems,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft BizTalk Adapters for Host Systems 2.0,Developer,Fixed,2009-06-21,,,UNKNOWN
+,Microsoft BizTalk Adapters for Host Systems 2.0,Standard,Fixed,2009-06-21,,,UNKNOWN
+,Microsoft BizTalk FileAct and InterAct Adapters for SWIFT,,Fixed,2007-04-10,,,UNKNOWN
+,Microsoft BizTalk Server 2004,Developer,Fixed,2004-05-20,,,UNKNOWN
+,Microsoft BizTalk Server 2004,Developer,Fixed,2004-05-20,,,UNKNOWN
+,Microsoft BizTalk Server 2004,Developer,Fixed,2004-05-20,,,UNKNOWN
+,Microsoft BizTalk Server 2004,Enterprise,Fixed,2004-05-20,,,UNKNOWN
+,Microsoft BizTalk Server 2004,Enterprise,Fixed,2004-05-20,,,UNKNOWN
+,Microsoft BizTalk Server 2004,Enterprise,Fixed,2004-05-20,,,UNKNOWN
+,Microsoft BizTalk Server 2004,Partner,Fixed,2004-05-20,,,UNKNOWN
+,Microsoft BizTalk Server 2004,Partner,Fixed,2004-05-20,,,UNKNOWN
+,Microsoft BizTalk Server 2004,Partner,Fixed,2004-05-20,,,UNKNOWN
+,Microsoft BizTalk Server 2004,Standard,Fixed,2004-05-20,,,UNKNOWN
+,Microsoft BizTalk Server 2004,Standard,Fixed,2004-05-20,,,UNKNOWN
+,Microsoft BizTalk Server 2004,Standard,Fixed,2004-05-20,,,UNKNOWN
+,Microsoft BizTalk Server 2006,Branch,Fixed,2006-06-23,,,UNKNOWN
+,Microsoft BizTalk Server 2006,Developer,Fixed,2006-06-23,,,UNKNOWN
+,Microsoft BizTalk Server 2006,Enterprise,Fixed,2006-06-23,,,UNKNOWN
+,Microsoft BizTalk Server 2006,Standard,Fixed,2006-06-23,,,UNKNOWN
+,Microsoft BizTalk Server 2006 R2,Branch,Fixed,2006-06-23,,,UNKNOWN
+,Microsoft BizTalk Server 2006 R2,Branch,Fixed,2006-06-23,,,UNKNOWN
+,Microsoft BizTalk Server 2006 R2,Developer,Fixed,2006-06-23,,,UNKNOWN
+,Microsoft BizTalk Server 2006 R2,Developer,Fixed,2006-06-23,,,UNKNOWN
+,Microsoft BizTalk Server 2006 R2,Enterprise,Fixed,2006-06-23,,,UNKNOWN
+,Microsoft BizTalk Server 2006 R2,Enterprise,Fixed,2006-06-23,,,UNKNOWN
+,Microsoft BizTalk Server 2006 R2,Standard,Fixed,2006-06-23,,,UNKNOWN
+,Microsoft BizTalk Server 2006 R2,Standard,Fixed,2006-06-23,,,UNKNOWN
+,Microsoft Business Solutions Business Portal,,Fixed,2003-07-18,,,UNKNOWN
+,Microsoft Business Solutions Business Portal,,Fixed,2003-07-18,,,UNKNOWN
+,Microsoft Business Solutions Business Portal,,Fixed,2003-07-18,,,UNKNOWN
+,Microsoft Business Solutions for Analytics Forecaster 6.7,,Fixed,2005-01-30,,,UNKNOWN
+,Microsoft Business Solutions for Analytics--FRx 6.7 Desktop,,Fixed,2004-05-30,,,UNKNOWN
+,Microsoft Business Solutions--Great Plains 8.0,Standard,Fixed,2004-06-01,,,UNKNOWN
+,Microsoft Business Solutions--Solomon 6.0,,Fixed,2004-09-30,,,UNKNOWN
+,Microsoft C5 4.0,Standard,Fixed,2006-03-01,,,UNKNOWN
+,Microsoft Class Server 3.0,Standard,Fixed,2003-08-20,,,UNKNOWN
+,Microsoft Class Server 4.0,Standard,Fixed,2005-02-21,,,UNKNOWN
+,Microsoft Cloud for Healthcare,,Modern,2020-10-28,,,UNKNOWN
+,Microsoft Commerce Server 2007,Developer,Fixed,2006-06-16,,,UNKNOWN
+,Microsoft Commerce Server 2007,Developer,Fixed,2006-06-16,,,UNKNOWN
+,Microsoft Commerce Server 2007,Developer,Fixed,2006-06-16,,,UNKNOWN
+,Microsoft Commerce Server 2007,Enterprise,Fixed,2006-06-16,,,UNKNOWN
+,Microsoft Commerce Server 2007,Enterprise,Fixed,2006-06-16,,,UNKNOWN
+,Microsoft Commerce Server 2007,Enterprise,Fixed,2006-06-16,,,UNKNOWN
+,Microsoft Commerce Server 2007,Standard,Fixed,2006-06-16,,,UNKNOWN
+,Microsoft Commerce Server 2007,Standard,Fixed,2006-06-16,,,UNKNOWN
+,Microsoft Commerce Server 2007,Standard,Fixed,2006-06-16,,,UNKNOWN
+,Microsoft Commerce Server 2009,Enterprise,Fixed,2009-04-23,,,UNKNOWN
+,Microsoft Commerce Server 2009,Standard,Fixed,2009-04-23,,,UNKNOWN
+,Microsoft Commerce Server 2009 R2,Enterprise,Fixed,2011-11-13,,,UNKNOWN
+,Microsoft Commerce Server 2009 R2,Standard,Fixed,2011-11-13,,,UNKNOWN
+,Microsoft Compute Cluster Pack,,Fixed,2006-09-06,,,UNKNOWN
+,Microsoft Compute Cluster Pack,,Fixed,2006-09-06,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Microsoft Connected Services Framework 2.5,Order Handling Standard Business Event 2.5,Fixed,2005-07-26,,,UNKNOWN
+,Microsoft Connected Services Framework 2.5,Server,Fixed,2005-07-26,,,UNKNOWN
+,Microsoft Connected Services Framework 2.5,Service Provider,Fixed,2005-07-26,,,UNKNOWN
+,Microsoft Connected Services Framework 3.0,Billing Standard Business Event,Fixed,2006-06-30,,,UNKNOWN
+,Microsoft Connected Services Framework 3.0,Order Handling Standard Business Event,Fixed,2006-06-30,,,UNKNOWN
+,Microsoft Connected Services Framework 3.0,Server,Fixed,2006-06-30,,,UNKNOWN
+,Microsoft Connected Services Framework 3.0,Standard,Fixed,2006-06-30,,,UNKNOWN
+,Microsoft Connected Services Framework 3.0,Standard Server with Standard Business Events,Fixed,2006-06-30,,,UNKNOWN
+,Microsoft Content Management Server 2002,Enterprise,Fixed,2003-09-16,,,UNKNOWN
+,Microsoft Content Management Server 2002,Enterprise,Fixed,2003-09-16,,,UNKNOWN
+,Microsoft Content Management Server 2002,Enterprise,Fixed,2003-09-16,,,UNKNOWN
+,Microsoft Content Management Server 2002,Enterprise,Fixed,2003-09-16,,,UNKNOWN
+,Microsoft Content Management Server 2002,Standard,Fixed,2003-09-16,,,UNKNOWN
+,Microsoft Content Management Server 2002,Standard,Fixed,2003-09-16,,,UNKNOWN
+,Microsoft Content Management Server 2002,Standard,Fixed,2003-09-16,,,UNKNOWN
+,Microsoft Content Management Server 2002,Standard,Fixed,2003-09-16,,,UNKNOWN
+,Microsoft Customer Care Framework 2005,,Fixed,2005-11-05,,,UNKNOWN
+,Microsoft Customer Care Framework 2005 .NET 2.0 Edition,,Fixed,2006-11-11,,,UNKNOWN
+,Microsoft Customer Care Framework 2008,,Fixed,2007-09-01,,,UNKNOWN
+,Microsoft Customer Care Framework 2009,,Fixed,2008-10-18,,,UNKNOWN
+,Microsoft Customer Care Framework 2009,,Fixed,2008-10-18,,,UNKNOWN
+,Microsoft Defender for Cloud,,Modern,2016-07-21,,,UNKNOWN
+,Microsoft Defender for Endpoint,,Component,2016-08-02,,,UNKNOWN
+,Microsoft Defender for IoT,,Modern,2021-01-04,,,UNKNOWN
+,Microsoft Deployment Agent 2013,,Fixed,2014-01-15,,,UNKNOWN
+,Microsoft Diagnostics and Recovery Toolset 10.0,,Fixed,2015-11-01,,,UNKNOWN
+,Microsoft Diagnostics and Recovery Toolset 6.5,,Fixed,2009-12-03,,,UNKNOWN
+,Microsoft Diagnostics and Recovery Toolset 7.0,,Fixed,2011-08-01,,,UNKNOWN
+,Microsoft Diagnostics and Recovery Toolset 8.0,,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Diagnostics and Recovery Toolset 8.0,,Fixed,2012-11-01,,,UNKNOWN
+,Microsoft Diagnostics and Recovery Toolset 8.1,,Fixed,2014-02-06,,,UNKNOWN
+,Microsoft Edge,,Modern,2020-01-15,,,UNKNOWN
+,Microsoft Edge Legacy,,Component,2015-07-29,,,UNKNOWN
+,Microsoft Edge WebView2,,Modern,2020-10-19,,,UNKNOWN
+,Microsoft Enterprise Desktop Virtualization 1.0,Enterprise,Fixed,2008-08-03,,,UNKNOWN
+,Microsoft Enterprise Desktop Virtualization 1.0,Enterprise,Fixed,2008-08-03,,,UNKNOWN
+,Microsoft Enterprise Desktop Virtualization 2.0,Enterprise,Fixed,2011-03-10,,,UNKNOWN
+,Microsoft Entra Domain Service,,,,,,UNKNOWN
+,Microsoft Excel 2004 for Mac,,Fixed,2004-07-29,,,UNKNOWN
+,Microsoft Forecaster 7.0,,Fixed,2007-05-30,,,UNKNOWN
+,Microsoft Forecaster 7.0,,Fixed,2007-05-30,,,UNKNOWN
+,Microsoft Forecaster 7.0,,Fixed,2007-05-30,,,UNKNOWN
+,Microsoft Forecaster 7.0,,Fixed,2007-05-30,,,UNKNOWN
+,Microsoft Forecaster 7.0,,Fixed,2007-05-30,,,UNKNOWN
+,Microsoft Forecaster 7.0,,Fixed,2007-05-30,,,UNKNOWN
+,Microsoft Forefront Client Security,,Fixed,2007-08-02,,,UNKNOWN
+,Microsoft Forefront Endpoint Protection 2010,,Fixed,2011-03-31,,,UNKNOWN
+,Microsoft Forefront Identity Manager 2010,,Fixed,2010-05-27,,,UNKNOWN
+,Microsoft Forefront Identity Manager 2010 R2,,Fixed,2012-07-24,,,UNKNOWN
+,Microsoft Forefront Identity Manager 2010 R2,,Fixed,2012-07-24,,,UNKNOWN
+,Microsoft Forefront Server Security Management Console,,Fixed,2008-01-10,,,UNKNOWN
+,Microsoft Forefront Threat Management Gateway 2010,Enterprise,Fixed,2009-12-01,,,UNKNOWN
+,Microsoft Forefront Threat Management Gateway 2010,Enterprise,Fixed,2009-12-01,,,UNKNOWN
+,Microsoft Forefront Threat Management Gateway 2010,Enterprise,Fixed,2009-12-01,,,UNKNOWN
+,Microsoft Forefront Threat Management Gateway 2010,Standard,Fixed,2009-12-01,,,UNKNOWN
+,Microsoft Forefront Threat Management Gateway 2010,Standard,Fixed,2009-12-01,,,UNKNOWN
+,Microsoft Forefront Threat Management Gateway 2010,Standard,Fixed,2009-12-01,,,UNKNOWN
+,Microsoft Forefront Threat Management Gateway Web Protection Services,,Fixed,2009-12-01,,,UNKNOWN
+,"Microsoft Forefront Threat Management Gateway, Medium Business Edition",Business,Fixed,2008-11-12,,,UNKNOWN
+,Microsoft Forefront Unified Access Gateway 2010,,Fixed,2010-01-26,,,UNKNOWN
+,Microsoft Forefront Unified Access Gateway 2010,,Fixed,2010-01-26,,,UNKNOWN
+,Microsoft Forefront Unified Access Gateway 2010,,Fixed,2010-01-26,,,UNKNOWN
+,Microsoft Forefront Unified Access Gateway 2010,,Fixed,2010-01-26,,,UNKNOWN
+,Microsoft Forefront Unified Access Gateway 2010,,Fixed,2010-01-26,,,UNKNOWN
+,Microsoft Genomics,,Modern,2017-10-30,,,UNKNOWN
+,Microsoft Helmsman 4.0,,Fixed,2004-10-30,,,UNKNOWN
+,Microsoft Host Integration Server 2004,Developer,Fixed,2004-10-30,,,UNKNOWN
+,Microsoft Host Integration Server 2004,Developer,Fixed,2004-10-30,,,UNKNOWN
+,Microsoft Host Integration Server 2004,Enterprise,Fixed,2004-10-30,,,UNKNOWN
+,Microsoft Host Integration Server 2004,Enterprise,Fixed,2004-10-30,,,UNKNOWN
+,Microsoft Host Integration Server 2004,Standard,Fixed,2004-10-30,,,UNKNOWN
+,Microsoft Host Integration Server 2004,Standard,Fixed,2004-10-30,,,UNKNOWN
+,Microsoft Host Integration Server 2006,Developer,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Host Integration Server 2006,Developer,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Host Integration Server 2006,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Host Integration Server 2006,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Host Integration Server 2009,,Fixed,2009-06-21,,,UNKNOWN
+,Microsoft Host Integration Server 2010,,Fixed,2010-11-14,,,UNKNOWN
+,Microsoft Host Integration Server 2013,,Fixed,2013-11-20,,,UNKNOWN
+,Microsoft Identity Integration Server 2003,Enterprise,Fixed,2003-09-26,,,UNKNOWN
+,Microsoft Identity Integration Server 2003,Enterprise,Fixed,2003-09-26,,,UNKNOWN
+,Microsoft Identity Integration Server 2003,Enterprise,Fixed,2003-09-26,,,UNKNOWN
+,Microsoft Identity Lifecycle Manager 2007,,Fixed,2007-06-30,,,UNKNOWN
+,Microsoft Identity Lifecycle Manager 2007,,Fixed,2007-06-30,,,UNKNOWN
+,Microsoft Identity Lifecycle Manager 2007,,Fixed,2007-06-30,,,UNKNOWN
+,Microsoft Identity Manager 2016,,Fixed,2015-09-28,,,UNKNOWN
+,Microsoft Identity Manager 2016,,Fixed,2015-09-28,,,UNKNOWN
+,Microsoft Integration Designer 2.5,,Fixed,2006-05-30,,,UNKNOWN
+,Microsoft Intelligent Application Gateway 2007,,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft Intelligent Application Gateway 2007,,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft Intelligent Application Gateway 2007,,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft Internet Security and Acceleration Server 2004,Enterprise,Fixed,2004-09-08,,,UNKNOWN
+,Microsoft Internet Security and Acceleration Server 2004,Enterprise,Fixed,2004-09-08,,,UNKNOWN
+,Microsoft Internet Security and Acceleration Server 2004,Enterprise,Fixed,2004-09-08,,,UNKNOWN
+,Microsoft Internet Security and Acceleration Server 2004,Enterprise,Fixed,2004-09-08,,,UNKNOWN
+,Microsoft Internet Security and Acceleration Server 2004,Standard,Fixed,2004-09-08,,,UNKNOWN
+,Microsoft Internet Security and Acceleration Server 2004,Standard,Fixed,2004-09-08,,,UNKNOWN
+,Microsoft Internet Security and Acceleration Server 2004,Standard,Fixed,2004-09-08,,,UNKNOWN
+,Microsoft Internet Security and Acceleration Server 2004,Standard,Fixed,2004-09-08,,,UNKNOWN
+,Microsoft Internet Security and Acceleration Server 2006,Enterprise,Fixed,2006-10-17,,,UNKNOWN
+,Microsoft Internet Security and Acceleration Server 2006,Enterprise,Fixed,2006-10-17,,,UNKNOWN
+,Microsoft Internet Security and Acceleration Server 2006,Standard,Fixed,2006-10-17,,,UNKNOWN
+,Microsoft Internet Security and Acceleration Server 2006,Standard,Fixed,2006-10-17,,,UNKNOWN
+,Microsoft iSCSI Software Target 3.3,,Component,2010-12-20,,,UNKNOWN
+,Microsoft Kubernetes Configuration Extension,,,,,,UNKNOWN
+,Microsoft Lync 2010,Attendant,Fixed,2011-01-25,,,UNKNOWN
+,Microsoft Lync 2010,Attendee,Fixed,2011-01-25,,,UNKNOWN
+,Microsoft Lync 2010,Group Chat,Fixed,2011-01-25,,,UNKNOWN
+,Microsoft Lync 2010,Standard,Fixed,2011-01-25,,,UNKNOWN
+,Microsoft Lync for Mac 2011,,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Lync Phone Edition,,Fixed,2011-01-25,,,UNKNOWN
+,Microsoft Lync Server 2010,Enterprise,Fixed,2011-01-25,,,UNKNOWN
+,Microsoft Lync Server 2010,Group Chat Software Development Kit,Fixed,2011-01-25,,,UNKNOWN
+,Microsoft Lync Server 2010,SDK,Fixed,2011-01-25,,,UNKNOWN
+,Microsoft Lync Server 2010,Standard,Fixed,2011-01-25,,,UNKNOWN
+,Microsoft Lync Server 2013,Enterprise,Fixed,2011-01-25,,,UNKNOWN
+,Microsoft Lync Server 2013,Persistent Chat Software Development Kit,Fixed,2011-01-25,,,UNKNOWN
+,Microsoft Lync Server 2013,Phone,Fixed,2011-01-25,,,UNKNOWN
+,Microsoft Lync Server 2013,SDK,Fixed,2011-01-25,,,UNKNOWN
+,Microsoft Lync Server 2013,Standard,Fixed,2011-01-25,,,UNKNOWN
+,Microsoft Machine Learning Server (Microsoft R Server),,Modern,2016-01-01,,,UNKNOWN
+,Microsoft Mediaroom,Application Services 1.0,Fixed,2010-08-03,,,UNKNOWN
+,Microsoft Mediaroom,Client 2.0,Fixed,2010-08-03,,,UNKNOWN
+,Microsoft Mediaroom,Client 2.1,Fixed,2010-08-03,,,UNKNOWN
+,Microsoft Mediaroom,Server 2.0,Fixed,2010-08-03,,,UNKNOWN
+,Microsoft Mediaroom,Server 2.1,Fixed,2010-08-03,,,UNKNOWN
+,Microsoft Mobile Internet Toolkit 1.0,,Fixed,2003-01-23,,,UNKNOWN
+,Microsoft Office 2003,Basic,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Basic,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Basic,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Basic,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Professional,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Professional,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Professional,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Professional,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Professional Enterprise,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Professional Enterprise,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Professional Enterprise,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Professional Enterprise,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Small Business,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Small Business,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Small Business,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Small Business,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Standard,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Standard,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Standard,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Standard,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Student and Teacher,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Student and Teacher,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Student and Teacher,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Student and Teacher,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Web Components,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Web Components,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Web Components,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003,Web Components,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office 2003 Proofing Tools,,Fixed,2003-12-08,,,UNKNOWN
+,Microsoft Office 2003 Web Components for the 2007 Microsoft Office system,,Component,2007-01-27,,,UNKNOWN
+,Microsoft Office 2004 for Mac,Professional,Fixed,2004-07-13,,,UNKNOWN
+,Microsoft Office 2004 for Mac,Standard,Fixed,2004-07-13,,,UNKNOWN
+,Microsoft Office 2004 for Mac,Student and Teacher,Fixed,2004-07-13,,,UNKNOWN
+,Microsoft Office 2007,Basic,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Basic,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Basic,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Basic,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Enterprise,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Enterprise,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Enterprise,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Enterprise,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Multi Language Pack,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Multi Language Pack,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Multi Language Pack,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Multi Language Pack,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Professional,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Professional,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Professional,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Professional,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Professional Plus,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Professional Plus,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Professional Plus,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Professional Plus,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Small Business,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Small Business,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Small Business,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Small Business,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Ultimate,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Ultimate,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Ultimate,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2007,Ultimate,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office 2008 for Mac,Business,Fixed,2008-01-15,,,UNKNOWN
+,Microsoft Office 2008 for Mac,Business,Fixed,2008-01-15,,,UNKNOWN
+,Microsoft Office 2008 for Mac,Business,Fixed,2008-01-15,,,UNKNOWN
+,Microsoft Office 2008 for Mac,Home and Student,Fixed,2008-01-15,,,UNKNOWN
+,Microsoft Office 2008 for Mac,Home and Student,Fixed,2008-01-15,,,UNKNOWN
+,Microsoft Office 2008 for Mac,Home and Student,Fixed,2008-01-15,,,UNKNOWN
+,Microsoft Office 2008 for Mac,Special Media Editon,Fixed,2008-01-15,,,UNKNOWN
+,Microsoft Office 2008 for Mac,Special Media Editon,Fixed,2008-01-15,,,UNKNOWN
+,Microsoft Office 2008 for Mac,Special Media Editon,Fixed,2008-01-15,,,UNKNOWN
+,Microsoft Office 2010,eAcademy,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,eAcademy,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,eAcademy,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Home and Business,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Home and Business,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Home and Business,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Home and Student,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Home and Student,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Home and Student,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Personal,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Personal,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Personal,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Professional,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Professional,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Professional,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Professional Academic,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Professional Academic,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Professional Academic,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Professional Plus,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Professional Plus,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Professional Plus,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Professional Plus Home Use Program,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Professional Plus Home Use Program,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Professional Plus Home Use Program,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Starter,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Starter,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2010,Starter,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Office 2013,Home and Business,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Home and Business,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Home and Student,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Home and Student,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Multi Language Pack,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Multi Language Pack,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Professional,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Professional,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Professional Plus,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Professional Plus,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Professional Plus Home Use Program,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Professional Plus Home Use Program,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Web Apps Server,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2013,Web Apps Server,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Office 2016,Home and Business,Fixed,2015-09-22,,,UNKNOWN
+,Microsoft Office 2016,Home and Student,Fixed,2015-09-22,,,UNKNOWN
+,Microsoft Office 2016,Personal,Fixed,2015-09-22,,,UNKNOWN
+,Microsoft Office 2016,Professional,Fixed,2015-09-22,,,UNKNOWN
+,Microsoft Office 2016,Professional Plus,Fixed,2015-09-22,,,UNKNOWN
+,Microsoft Office 2016,Standard,Fixed,2015-09-22,,,UNKNOWN
+,Microsoft Office 2016 for Mac,Home and Business,Fixed,2015-09-22,,,UNKNOWN
+,Microsoft Office 2016 for Mac,Home and Student,Fixed,2015-09-22,,,UNKNOWN
+,Microsoft Office 2016 for Mac,Standard,Fixed,2015-09-22,,,UNKNOWN
+,Microsoft Office 2019,Home and Business,Fixed,2018-09-24,,,UNKNOWN
+,Microsoft Office 2019,Home and Student,Fixed,2018-09-24,,,UNKNOWN
+,Microsoft Office 2019,Personal,Fixed,2018-09-24,,,UNKNOWN
+,Microsoft Office 2019,Professional,Fixed,2018-09-24,,,UNKNOWN
+,Microsoft Office 2019,Professional Academic,Fixed,2018-09-24,,,UNKNOWN
+,Microsoft Office 2019,Professional Plus,Fixed,2018-09-24,,,UNKNOWN
+,Microsoft Office 2019,Standard,Fixed,2018-09-24,,,UNKNOWN
+,Microsoft Office 2019 for Mac,Academic,Fixed,2018-09-24,,,UNKNOWN
+,Microsoft Office 2019 for Mac,Home and Business,Fixed,2018-09-24,,,UNKNOWN
+,Microsoft Office 2019 for Mac,Home and Student,Fixed,2018-09-24,,,UNKNOWN
+,Microsoft Office 2019 for Mac,Standard,Fixed,2018-09-24,,,UNKNOWN
+,Microsoft Office Access 2003,,Fixed,2003-11-27,,,UNKNOWN
+,Microsoft Office Access 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Access 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Access 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Access 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Audit and Control Management Server 2013,,Fixed,2013-07-16,,,UNKNOWN
+,Microsoft Office Business Scorecard Manager 2005,,Fixed,2005-12-27,,,UNKNOWN
+,Microsoft Office Communications Server 2007,Enterprise,Fixed,2007-10-27,,,UNKNOWN
+,Microsoft Office Communications Server 2007,Standard,Fixed,2007-10-27,,,UNKNOWN
+,Microsoft Office Communications Server 2007 R2,All applicable,Fixed,2009-09-28,,,UNKNOWN
+,Microsoft Office Communications Server 2007 R2,Enterprise,Fixed,2009-09-28,,,UNKNOWN
+,Microsoft Office Communications Server 2007 R2,XMPP Gateway,Fixed,2009-09-28,,,UNKNOWN
+,Microsoft Office Communicator 2005,Standard,Fixed,2005-08-13,,,UNKNOWN
+,Microsoft Office Communicator 2007,Standard,Fixed,2007-10-27,,,UNKNOWN
+,Microsoft Office Communicator 2007 R2,All applicable,Fixed,2009-03-19,,,UNKNOWN
+,Microsoft Office Communicator 2007 R2,Phone,Fixed,2009-03-19,,,UNKNOWN
+,Microsoft Office Communicator Mobile,,Fixed,2006-07-21,,,UNKNOWN
+,Microsoft Office Communicator Phone Edition,Phone,Fixed,2007-01-15,,,UNKNOWN
+,Microsoft Office Excel 2003,,Fixed,2003-11-27,,,UNKNOWN
+,Microsoft Office Excel 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Excel 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Excel 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Excel 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Excel 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Excel 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Excel 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Excel 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office for Mac 2011,Academic,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Academic,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Academic,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Academic,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Home and Business,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Home and Business,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Home and Business,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Home and Business,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Home and Business Home Use Program,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Home and Business Home Use Program,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Home and Business Home Use Program,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Home and Business Home Use Program,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Home and Student,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Home and Student,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Home and Student,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Home and Student,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Standard,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Standard,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Standard,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office for Mac 2011,Standard,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Office Forms Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Forms Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Forms Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Forms Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office FrontPage 2003,,Fixed,2003-11-19,,,UNKNOWN
+,Microsoft Office Groove 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Groove Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Groove Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Groove Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Groove Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office InfoPath 2003,,Fixed,2003-11-19,,,UNKNOWN
+,Microsoft Office InfoPath 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office InfoPath 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office InfoPath 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office InfoPath 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office InterConnect 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office InterConnect 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office InterConnect 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office InterConnect 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Live Communications Server 2003,,Fixed,2003-11-13,,,UNKNOWN
+,Microsoft Office Live Communications Server 2005,Enterprise,Fixed,2005-01-22,,,UNKNOWN
+,Microsoft Office Live Communications Server 2005,Enterprise,Fixed,2005-01-22,,,UNKNOWN
+,Microsoft Office Live Communications Server 2005,Standard,Fixed,2005-01-22,,,UNKNOWN
+,Microsoft Office Live Communications Server 2005,Standard,Fixed,2005-01-22,,,UNKNOWN
+,Microsoft Office OneNote 2003,,Fixed,2003-11-19,,,UNKNOWN
+,Microsoft Office OneNote 2003,,Fixed,2003-11-19,,,UNKNOWN
+,Microsoft Office OneNote 2003,,Fixed,2003-11-19,,,UNKNOWN
+,Microsoft Office OneNote 2003,,Fixed,2003-11-19,,,UNKNOWN
+,Microsoft Office OneNote 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office OneNote 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office OneNote 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office OneNote 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office OneNote 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office OneNote 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office OneNote 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office OneNote 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Outlook 2003,,Fixed,2003-11-20,,,UNKNOWN
+,Microsoft Office Outlook 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Outlook 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Outlook 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Outlook 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Outlook 2007,with Business Contact Manager,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Outlook 2007,with Business Contact Manager,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Outlook 2007,with Business Contact Manager,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Outlook 2007,with Business Contact Manager,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Outlook 2007,with Interconnect,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Outlook 2007,with Interconnect,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Outlook 2007,with Interconnect,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Outlook 2007,with Interconnect,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office PerformancePoint 2007,Management Reporter,Fixed,2007-05-01,,,UNKNOWN
+,Microsoft Office PerformancePoint 2007,Management Reporter,Fixed,2007-05-01,,,UNKNOWN
+,Microsoft Office PerformancePoint 2007,Management Reporter,Fixed,2007-05-01,,,UNKNOWN
+,Microsoft Office PerformancePoint 2007,Management Reporter,Fixed,2007-05-01,,,UNKNOWN
+,Microsoft Office PerformancePoint Server 2007,32 Bit,Fixed,2007-12-20,,,UNKNOWN
+,Microsoft Office PerformancePoint Server 2007,32 Bit,Fixed,2007-12-20,,,UNKNOWN
+,Microsoft Office PerformancePoint Server 2007,32 Bit,Fixed,2007-12-20,,,UNKNOWN
+,Microsoft Office PerformancePoint Server 2007,32 Bit,Fixed,2007-12-20,,,UNKNOWN
+,Microsoft Office PerformancePoint Server 2007,64 Bit,Fixed,2007-12-20,,,UNKNOWN
+,Microsoft Office PerformancePoint Server 2007,64 Bit,Fixed,2007-12-20,,,UNKNOWN
+,Microsoft Office PerformancePoint Server 2007,64 Bit,Fixed,2007-12-20,,,UNKNOWN
+,Microsoft Office PerformancePoint Server 2007,64 Bit,Fixed,2007-12-20,,,UNKNOWN
+,Microsoft Office PowerPoint 2003,,Fixed,2003-11-27,,,UNKNOWN
+,Microsoft Office PowerPoint 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office PowerPoint 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office PowerPoint 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office PowerPoint 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office PowerPoint 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office PowerPoint 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office PowerPoint 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office PowerPoint 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Project 2003,Professional,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office Project 2003,Professional,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office Project 2003,Professional,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office Project 2003,Professional,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office Project 2003,Standard,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office Project 2003,Standard,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office Project 2003,Standard,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office Project 2003,Standard,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office Project 2007,Professional,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Project 2007,Professional,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Project 2007,Professional,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Project 2007,Professional,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Project 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Project 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Project 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Project 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Project Portfolio Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Project Portfolio Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Project Server 2003,,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office Project Server 2003,,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office Project Server 2003,,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office Project Server 2003,,Fixed,2003-11-17,,,UNKNOWN
+,Microsoft Office Project Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Project Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Project Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Project Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Publisher 2003,Standard,Fixed,2003-11-24,,,UNKNOWN
+,Microsoft Office Publisher 2003,with Digital Imaging,Fixed,2003-11-24,,,UNKNOWN
+,Microsoft Office Publisher 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Publisher 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Publisher 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Publisher 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office SharePoint Designer 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office SharePoint Designer 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office SharePoint Designer 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office SharePoint Portal Server 2003,,Fixed,2003-11-23,,,UNKNOWN
+,Microsoft Office SharePoint Portal Server 2003,,Fixed,2003-11-23,,,UNKNOWN
+,Microsoft Office SharePoint Portal Server 2003,,Fixed,2003-11-23,,,UNKNOWN
+,Microsoft Office SharePoint Portal Server 2003,,Fixed,2003-11-23,,,UNKNOWN
+,Microsoft Office SharePoint Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office SharePoint Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office SharePoint Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office SharePoint Server 2007,,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Word 2003,Standard,Fixed,2003-11-27,,,UNKNOWN
+,Microsoft Office Word 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Word 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Word 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Word 2007,Home and Student,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Word 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Word 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Word 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office Word 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Microsoft Office XP Web Components in Office 2003,,Component,2003-11-17,,,UNKNOWN
+,Microsoft OneNote 2010,Home and Student,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft OneNote 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft OneNote 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Microsoft Operations Manager (MOM) 2005,Workgroup,Fixed,2004-11-24,,,UNKNOWN
+,Microsoft Operations Manager (MOM) 2005,Workgroup,Fixed,2004-11-24,,,UNKNOWN
+,Microsoft PlayReady Server Software Development Kit,,Fixed,2009-07-15,,,UNKNOWN
+,Microsoft PlayReady Server Software Development Kit 2.0,,Fixed,2012-12-29,,,UNKNOWN
+,Microsoft Plus! Digital Media Edition,,Fixed,2003-03-12,,,UNKNOWN
+,Microsoft Plus! for Windows XP,,Fixed,2001-10-25,,,UNKNOWN
+,Microsoft PowerPoint 2004 for Mac,,Fixed,2004-08-05,,,UNKNOWN
+,Microsoft PowerPoint 2008 for Mac,,Fixed,2008-03-12,,,UNKNOWN
+,Microsoft PowerPoint 2010,Home and Student,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft PowerPoint 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft ProClarity 6.3,Analytics Server,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft ProClarity 6.3,Analytics Server,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft ProClarity 6.3,Analytics Server,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft ProClarity 6.3,Analytics Server,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft ProClarity 6.3,Desktop Professional,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft ProClarity 6.3,Desktop Professional,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft ProClarity 6.3,Desktop Professional,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft ProClarity 6.3,Desktop Professional,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft ProClarity 6.3,SharePoint Viewer,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft ProClarity 6.3,SharePoint Viewer,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft ProClarity 6.3,SharePoint Viewer,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft ProClarity 6.3,SharePoint Viewer,Fixed,2007-06-01,,,UNKNOWN
+,Microsoft Purview,,Modern,2021-09-28,,,UNKNOWN
+,Microsoft Report Viewer,,Modern,2016-11-30,,,UNKNOWN
+,Microsoft Report Viewer 2010 Redistributable,,Fixed,2010-06-29,,,UNKNOWN
+,Microsoft Report Viewer 2012 Runtime,,Fixed,2014-07-13,,,UNKNOWN
+,Microsoft Report Viewer 2015 Runtime,,Fixed,2015-07-20,,,UNKNOWN
+,Microsoft Report Viewer Redistributable 2012,,Fixed,2014-07-13,,,UNKNOWN
+,Microsoft Search Server 2008,Express,Fixed,2008-06-03,,,UNKNOWN
+,Microsoft Search Server 2008,Standard,Fixed,2008-06-03,,,UNKNOWN
+,Microsoft Search Server 2010,All applicable,Fixed,2010-06-15,,,UNKNOWN
+,Microsoft Search Server 2010,All applicable,Fixed,2010-06-15,,,UNKNOWN
+,Microsoft Search Server 2010,Express,Fixed,2010-06-15,,,UNKNOWN
+,Microsoft Search Server 2010,Express,Fixed,2010-06-15,,,UNKNOWN
+,Microsoft SharePoint 2010 (for Internet Sites),for Internet Sites Enterprise,Fixed,2010-06-15,,,UNKNOWN
+,Microsoft SharePoint 2010 (for Internet Sites),for Internet Sites Standard,Fixed,2010-06-15,,,UNKNOWN
+,"Microsoft SharePoint 2010 (Workspace, Designer)",Designer,Fixed,2010-07-15,,,UNKNOWN
+,"Microsoft SharePoint 2010 (Workspace, Designer)",Workspace,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft SharePoint Server 2010,Access Services,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft SharePoint Server 2010,Access Services,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft SharePoint Server 2010,Access Services,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft SharePoint Server 2010,All applicable,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft SharePoint Server 2010,All applicable,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft SharePoint Server 2010,All applicable,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft SharePoint Server 2010,Excel Services,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft SharePoint Server 2010,Excel Services,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft SharePoint Server 2010,Excel Services,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft SharePoint Server 2010,Performance Point Services,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft SharePoint Server 2010,Performance Point Services,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft SharePoint Server 2010,Performance Point Services,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Silverlight 2,,Fixed,2008-10-10,,,UNKNOWN
+,Microsoft Silverlight 3,,Fixed,2009-07-09,,,UNKNOWN
+,Microsoft Solution for Hosted Messaging and Collaboration 3.5,,Fixed,2007-02-26,,,UNKNOWN
+,Microsoft Solution for Hosted Messaging and Collaboration 4.0,,Fixed,2007-07-15,,,UNKNOWN
+,Microsoft Solution for Hosted Messaging and Collaboration 4.5,,Fixed,2008-09-11,,,UNKNOWN
+,Microsoft Speech Server 2004,Enterprise,Fixed,2004-04-28,,,UNKNOWN
+,Microsoft Speech Server 2004,Standard,Fixed,2004-04-28,,,UNKNOWN
+,Microsoft Speech Server 2004 R2,Enterprise,Fixed,2005-07-22,,,UNKNOWN
+,Microsoft Speech Server 2004 R2,Standard,Fixed,2005-07-22,,,UNKNOWN
+,Microsoft SQL Server 2005,Compact,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Compact,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Compact,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Compact,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Compact,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Developer,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Developer,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Developer,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Developer,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Developer,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Embedded,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Embedded,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Embedded,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Embedded,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Embedded,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise for Itanium-based Systems,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise for Itanium-based Systems,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise for Itanium-based Systems,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise for Itanium-based Systems,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise for Itanium-based Systems,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise X64,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise X64,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise X64,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise X64,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Enterprise X64,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Express,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Express,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Express,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Express,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Express,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Express with Advanced Services,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Express with Advanced Services,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Express with Advanced Services,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Express with Advanced Services,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Express with Advanced Services,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard for Itanium-based Systems,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard for Itanium-based Systems,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard for Itanium-based Systems,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard for Itanium-based Systems,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard for Itanium-based Systems,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard X64,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard X64,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard X64,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard X64,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Standard X64,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Workgroup,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Workgroup,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Workgroup,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Workgroup,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2005,Workgroup,Fixed,2006-01-14,,,UNKNOWN
+,Microsoft SQL Server 2008,Datacenter,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Datacenter,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Datacenter,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Datacenter,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Datacenter,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Datacenter,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Datacenter,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Datacenter,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Datacenter,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Developer,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Developer,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Developer,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Developer,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Developer,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Developer,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Developer,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Developer,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Developer,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Enterprise,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Enterprise,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Enterprise,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Enterprise,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Enterprise,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Enterprise,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Enterprise,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Enterprise,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Enterprise,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express with Advanced Services,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express with Advanced Services,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express with Advanced Services,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express with Advanced Services,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express with Advanced Services,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express with Advanced Services,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express with Advanced Services,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express with Advanced Services,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Express with Advanced Services,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard Edition for Small Business,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard Edition for Small Business,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard Edition for Small Business,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard Edition for Small Business,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard Edition for Small Business,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard Edition for Small Business,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard Edition for Small Business,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard Edition for Small Business,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Standard Edition for Small Business,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Web,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Web,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Web,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Web,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Web,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Web,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Web,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Web,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Web,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Workgroup,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Workgroup,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Workgroup,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Workgroup,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Workgroup,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Workgroup,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Workgroup,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Workgroup,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008,Workgroup,Fixed,2008-11-06,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Datacenter,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Datacenter,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Datacenter,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Datacenter,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Datacenter,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Datacenter,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Datacenter,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Datacenter,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Developer,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Developer,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Developer,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Developer,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Developer,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Developer,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Developer,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Developer,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Enterprise,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Enterprise,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Enterprise,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Enterprise,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Enterprise,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Enterprise,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Enterprise,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Enterprise,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express with Advanced Services,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express with Advanced Services,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express with Advanced Services,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express with Advanced Services,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express with Advanced Services,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express with Advanced Services,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express with Advanced Services,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Express with Advanced Services,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,for Embedded Systems,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,for Embedded Systems,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,for Embedded Systems,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,for Embedded Systems,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,for Embedded Systems,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,for Embedded Systems,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,for Embedded Systems,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,for Embedded Systems,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard Edition for Small Business,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard Edition for Small Business,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard Edition for Small Business,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard Edition for Small Business,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard Edition for Small Business,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard Edition for Small Business,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard Edition for Small Business,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Standard Edition for Small Business,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Web,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Web,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Web,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Web,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Web,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Web,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Web,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Web,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Workgroup,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Workgroup,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Workgroup,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Workgroup,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Workgroup,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Workgroup,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Workgroup,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2,Workgroup,Fixed,2010-07-20,,,UNKNOWN
+,Microsoft SQL Server 2008 R2 Parallel Data Warehouse,,Fixed,2010-11-09,,,UNKNOWN
+,Microsoft SQL Server 2012,Business Intelligence,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Business Intelligence,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Business Intelligence,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Business Intelligence,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Business Intelligence,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Business Intelligence,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Business Intelligence,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Business Intelligence,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Developer,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Developer,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Developer,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Developer,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Developer,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Developer,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Developer,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Developer,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise Core,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise Core,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise Core,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise Core,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise Core,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise Core,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise Core,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Enterprise Core,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Express,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Express,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Express,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Express,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Express,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Express,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Express,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Express,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,for Embedded Systems,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,for Embedded Systems,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,for Embedded Systems,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,for Embedded Systems,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,for Embedded Systems,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,for Embedded Systems,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,for Embedded Systems,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,for Embedded Systems,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Standard,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Standard,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Standard,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Standard,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Standard,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Standard,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Standard,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Standard,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Web,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Web,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Web,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Web,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Web,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Web,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Web,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012,Web,Fixed,2012-05-20,,,UNKNOWN
+,Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System),,Fixed,2013-07-12,,,UNKNOWN
+,Microsoft SQL Server Compact 3.5,,Fixed,2008-02-19,,,UNKNOWN
+,Microsoft SQL Server Compact 3.5,,Fixed,2008-02-19,,,UNKNOWN
+,Microsoft SQL Server Compact 3.5,,Fixed,2008-02-19,,,UNKNOWN
+,Microsoft SQL Server Compact 4.0,,Fixed,2011-04-13,,,UNKNOWN
+,Microsoft Store for Business and Education,,Modern,2015-11-02,,,UNKNOWN
+,Microsoft Sync Framework 1.0,,Fixed,2008-11-04,,,UNKNOWN
+,Microsoft Sync Framework 1.0,,Fixed,2008-11-04,,,UNKNOWN
+,Microsoft Sync Framework 2.1,,Fixed,2010-11-17,,,UNKNOWN
+,Microsoft System Center 2012 App Controller,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 App Controller,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Configuration Manager,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Configuration Manager,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Configuration Manager,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Data Protection Manager,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Data Protection Manager,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Endpoint Protection,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Endpoint Protection,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Endpoint Protection,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Operations Manager,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Operations Manager,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Orchestrator,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Orchestrator,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 R2 App Controller,,Fixed,2014-01-16,,,UNKNOWN
+,Microsoft System Center 2012 R2 Configuration Manager,,Fixed,2014-01-16,,,UNKNOWN
+,Microsoft System Center 2012 R2 Configuration Manager,,Fixed,2014-01-16,,,UNKNOWN
+,Microsoft System Center 2012 R2 Data Protection Manager,,Fixed,2014-01-16,,,UNKNOWN
+,Microsoft System Center 2012 R2 Endpoint Protection,,Fixed,2014-01-16,,,UNKNOWN
+,Microsoft System Center 2012 R2 Endpoint Protection,,Fixed,2014-01-16,,,UNKNOWN
+,Microsoft System Center 2012 R2 Operations Manager,,Fixed,2014-01-16,,,UNKNOWN
+,Microsoft System Center 2012 R2 Orchestrator,,Fixed,2014-01-16,,,UNKNOWN
+,Microsoft System Center 2012 R2 Service Manager,,Fixed,2014-01-16,,,UNKNOWN
+,Microsoft System Center 2012 R2 Virtual Machine Manager,,Fixed,2014-01-16,,,UNKNOWN
+,Microsoft System Center 2012 Service Manager,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Service Manager,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Virtual Machine Manager,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center 2012 Virtual Machine Manager,,Fixed,2012-05-30,,,UNKNOWN
+,Microsoft System Center Capacity Planner 2007,,Fixed,2008-02-09,,,UNKNOWN
+,Microsoft System Center Configuration Manager 2007,,Fixed,2007-11-29,,,UNKNOWN
+,Microsoft System Center Configuration Manager 2007,,Fixed,2007-11-29,,,UNKNOWN
+,Microsoft System Center Configuration Manager 2007,,Fixed,2007-11-29,,,UNKNOWN
+,Microsoft System Center Configuration Manager 2007 R2,,Fixed,2008-11-29,,,UNKNOWN
+,Microsoft System Center Configuration Manager 2007 R3,,Fixed,2010-12-19,,,UNKNOWN
+,Microsoft System Center Data Protection Manager 2006,,Fixed,2005-10-22,,,UNKNOWN
+,Microsoft System Center Data Protection Manager 2006,,Fixed,2005-10-22,,,UNKNOWN
+,Microsoft System Center Data Protection Manager 2007,,Fixed,2007-12-15,,,UNKNOWN
+,Microsoft System Center Data Protection Manager 2007,,Fixed,2007-12-15,,,UNKNOWN
+,Microsoft System Center Data Protection Manager 2010,,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft System Center Essentials 2007,,Fixed,2007-10-09,,,UNKNOWN
+,Microsoft System Center Essentials 2007,,Fixed,2007-10-09,,,UNKNOWN
+,Microsoft System Center Essentials 2010,All applicable,Fixed,2010-07-28,,,UNKNOWN
+,Microsoft System Center Essentials 2010,wSQL,Fixed,2010-07-28,,,UNKNOWN
+,Microsoft System Center Mobile Device Manager 2008,All applicable,Fixed,2008-05-14,,,UNKNOWN
+,Microsoft System Center Mobile Device Manager 2008,All applicable,Fixed,2008-05-14,,,UNKNOWN
+,Microsoft System Center Mobile Device Manager 2008,wSQL,Fixed,2008-05-14,,,UNKNOWN
+,Microsoft System Center Mobile Device Manager 2008,wSQL,Fixed,2008-05-14,,,UNKNOWN
+,Microsoft System Center Virtual Machine Manager 2007,,Fixed,2007-11-29,,,UNKNOWN
+,Microsoft System Center Virtual Machine Manager 2008,,Fixed,2009-01-29,,,UNKNOWN
+,Microsoft System Center Virtual Machine Manager 2008 R2,,Fixed,2009-11-22,,,UNKNOWN
+,Microsoft System Center Virtual Machine Manager 2008 R2,,Fixed,2009-11-22,,,UNKNOWN
+,Microsoft Systems Management Server 2003,,Fixed,2004-01-20,,,UNKNOWN
+,Microsoft Systems Management Server 2003,,Fixed,2004-01-20,,,UNKNOWN
+,Microsoft Systems Management Server 2003,,Fixed,2004-01-20,,,UNKNOWN
+,Microsoft Systems Management Server 2003,,Fixed,2004-01-20,,,UNKNOWN
+,Microsoft Systems Management Server 2003 R2,,Fixed,2006-08-25,,,UNKNOWN
+,Microsoft Teams,,Modern,2016-11-01,,,UNKNOWN
+,Microsoft Teams,,Modern,2016-11-01,,,UNKNOWN
+,Microsoft Teams Rooms (Basic),,Modern,2022-09-06,,,UNKNOWN
+,Microsoft Teams Rooms (Premium),,Modern,2020-08-19,,,UNKNOWN
+,Microsoft Teams Rooms (Pro),,Modern,2022-09-06,,,UNKNOWN
+,Microsoft Teams Rooms (Standard),,Modern,2018-10-11,,,UNKNOWN
+,Microsoft Teams Shared Devices,,Modern,2022-11-16,,,UNKNOWN
+,Microsoft Visual Basic .NET 2003,Standard,Fixed,2003-07-10,,,UNKNOWN
+,Microsoft Visual C# .NET 2003,Standard,Fixed,2003-07-10,,,UNKNOWN
+,Microsoft Visual C++ .NET 2003,Standard,Fixed,2003-07-10,,,UNKNOWN
+,Microsoft Visual FoxPro 8.0 Professional Edition,Professional,Fixed,2003-03-12,,,UNKNOWN
+,Microsoft Visual FoxPro 9.0,Professional,Fixed,2004-12-22,,,UNKNOWN
+,Microsoft Visual J# Version 2.0 Redistributable Package,,Fixed,2006-04-22,,,UNKNOWN
+,Microsoft Visual J# Version 2.0 Redistributable Package Second Edition,,Fixed,2007-08-27,,,UNKNOWN
+,Microsoft Visual SourceSafe 2005,Standard,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio .NET 2003,Enterprise Architect,Fixed,2003-07-10,,,UNKNOWN
+,Microsoft Visual Studio .NET 2003,Enterprise Architect,Fixed,2003-07-10,,,UNKNOWN
+,Microsoft Visual Studio .NET 2003,Enterprise Developer,Fixed,2003-07-10,,,UNKNOWN
+,Microsoft Visual Studio .NET 2003,Enterprise Developer,Fixed,2003-07-10,,,UNKNOWN
+,Microsoft Visual Studio .NET 2003,J#,Fixed,2003-07-10,,,UNKNOWN
+,Microsoft Visual Studio .NET 2003,J#,Fixed,2003-07-10,,,UNKNOWN
+,Microsoft Visual Studio .NET 2003,Professional,Fixed,2003-07-10,,,UNKNOWN
+,Microsoft Visual Studio .NET 2003,Professional,Fixed,2003-07-10,,,UNKNOWN
+,Microsoft Visual Studio .NET 2003,Standard,Fixed,2003-07-10,,,UNKNOWN
+,Microsoft Visual Studio .NET 2003,Standard,Fixed,2003-07-10,,,UNKNOWN
+,Microsoft Visual Studio 2005,Professional,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Professional,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Standard,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Standard,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Standard Edition academic license,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Standard Edition academic license,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Team Edition for Database Professionals,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Team Edition for Database Professionals,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Team Edition for Software Architects,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Team Edition for Software Architects,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Team Edition for Software Developers,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Team Edition for Software Developers,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Team Edition for Software Testers,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Team Edition for Software Testers,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Team Suite,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Team Suite,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Team Test Load Agent,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Team Test Load Agent,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Tools for the Microsoft Office System,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Tools for the Microsoft Office System,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,VB Express,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,VB Express,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Visual C# Express,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Visual C# Express,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Visual C++ Express,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Visual C++ Express,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Visual J# Express,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Visual J# Express,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Visual Web Developer Express,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Visual Studio 2005,Visual Web Developer Express,Fixed,2006-01-27,,,UNKNOWN
+,Microsoft Viva Goals,,Modern,2023-08-28,,,UNKNOWN
+,Microsoft Windows Services for UNIX 3.5,,Component,2004-03-15,,,UNKNOWN
+,Microsoft Windows SharePoint Services 2.0,,Fixed,2003-06-03,,,UNKNOWN
+,Microsoft Windows SharePoint Services 3.0,,Fixed,2006-11-13,,,UNKNOWN
+,Microsoft Windows SharePoint Services 3.0,,Fixed,2006-11-13,,,UNKNOWN
+,Microsoft Windows SharePoint Services 3.0,,Fixed,2006-11-13,,,UNKNOWN
+,Microsoft Windows SharePoint Services 3.0,,Fixed,2006-11-13,,,UNKNOWN
+,Microsoft Windows Small Business Server 2003,Premium,Fixed,2003-12-16,,,UNKNOWN
+,Microsoft Windows Small Business Server 2003,Premium,Fixed,2003-12-16,,,UNKNOWN
+,Microsoft Windows Small Business Server 2003,Standard,Fixed,2003-12-16,,,UNKNOWN
+,Microsoft Windows Small Business Server 2003,Standard,Fixed,2003-12-16,,,UNKNOWN
+,Microsoft Windows Small Business Server 2003 R2,Premium,Fixed,2006-09-01,,,UNKNOWN
+,Microsoft Windows Small Business Server 2003 R2,Standard,Fixed,2006-09-01,,,UNKNOWN
+,Microsoft Windows XP Media Center Edition 2002,Media Center,Fixed,2002-10-28,,,UNKNOWN
+,Microsoft Windows XP Media Center Edition 2004,Media Center,Fixed,2003-10-27,,,UNKNOWN
+,Microsoft Word 2004 for Mac,,Fixed,2004-07-22,,,UNKNOWN
+,Microsoft Word 2008 for Mac,,Fixed,2008-03-12,,,UNKNOWN
+,Microsoft Word 2010,Home and Student,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Word 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Microsoft Word for Mac 2011,,Fixed,2010-12-09,,,UNKNOWN
+,Microsoft Workflow Manager 1.0,Client,Fixed,2012-10-18,,,UNKNOWN
+,Microsoft Workflow Manager 1.0,Standard,Fixed,2012-10-18,,,UNKNOWN
+,Microsoft Works,,Fixed,2003-10-25,,,UNKNOWN
+,Microsoft Works,,Fixed,2003-10-25,,,UNKNOWN
+,Microsoft Works,,Fixed,2003-10-25,,,UNKNOWN
+,Microsoft Works,,Fixed,2003-10-25,,,UNKNOWN
+,Microsoft Works,,Fixed,2003-10-25,,,UNKNOWN
+,Microsoft Works,,Fixed,2003-10-25,,,UNKNOWN
+,Microsoft XML Core Services 4.0,,Fixed,2009-12-28,,,UNKNOWN
+,Office 2013 version of Office 365 ProPlus,,Modern,2015-09-22,,,UNKNOWN
+,"Office 365 (Enterprise, Government, Education)",,Modern,2015-09-22,,,UNKNOWN
+,Office Live Meeting,Standard,Modern,2009-04-10,,,UNKNOWN
+,Office Online Server,,Modern,2016-05-04,,,UNKNOWN
+,Office XP,Developer,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Developer,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Developer,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Developer,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Professional,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Professional,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Professional,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Professional,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Proofing Tools,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Proofing Tools,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Proofing Tools,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Proofing Tools,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Standard,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Standard,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Standard,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Standard,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Web Components,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Web Components,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Web Components,Fixed,2001-05-31,,,UNKNOWN
+,Office XP,Web Components,Fixed,2001-05-31,,,UNKNOWN
+,OneDrive for Business,,Modern,2001-05-31,,,UNKNOWN
+,OneDrive for Consumer,,Modern,2001-05-31,,,UNKNOWN
+,OneNote 2016,,Fixed,2015-09-22,,,UNKNOWN
+,Outlook 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Outlook 2010,with Business Contact Manager,Fixed,2010-07-15,,,UNKNOWN
+,Outlook 2011 for Mac,,Fixed,2010-12-09,,,UNKNOWN
+,Outlook 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Outlook 2016,Standard,Fixed,2015-09-22,,,UNKNOWN
+,Outlook 2016 for Mac,,Fixed,2015-09-27,,,UNKNOWN
+,Outlook 2019,Standard,Fixed,2018-09-24,,,UNKNOWN
+,Outlook 2019 for Mac,,Fixed,2018-09-24,,,UNKNOWN
+,"Parature, from Microsoft",,Modern,2015-01-01,,,UNKNOWN
+,PixelSense Applications Suite 1.0,,Fixed,2009-01-01,,,UNKNOWN
+,PixelSense Applications Suite 1.0,,Fixed,2009-01-01,,,UNKNOWN
+,PixelSense Commercial Hardware 1.0,,Fixed,2008-09-25,,,UNKNOWN
+,PolicyMaker,Application Security,Fixed,2007-01-01,,,UNKNOWN
+,PolicyMaker,Outlook Edition,Fixed,2007-01-01,,,UNKNOWN
+,PolicyMaker,Professional 9.0,Fixed,2007-01-01,,,UNKNOWN
+,PolicyMaker,Registry Extension 2.0,Fixed,2007-01-01,,,UNKNOWN
+,PolicyMaker,Share Manager 1.0,Fixed,2007-01-01,,,UNKNOWN
+,PolicyMaker,Software Update 1.0,Fixed,2007-01-01,,,UNKNOWN
+,PolicyMaker,Software Update 2.0,Fixed,2007-01-01,,,UNKNOWN
+,PolicyMaker,Standard 1.0,Fixed,2007-01-01,,,UNKNOWN
+,PolicyMaker,Standard 2.0,Fixed,2007-01-01,,,UNKNOWN
+,PostgreSQL server,,,,,,UNKNOWN
+,Power BI Report Server,,Modern,2017-06-12,,,UNKNOWN
+,PowerPoint 2011 for Mac,,Fixed,2010-12-09,,,UNKNOWN
+,PowerPoint 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,PowerPoint 2016,Standard,Fixed,2015-09-22,,,UNKNOWN
+,PowerPoint 2016 for Mac,,Fixed,2015-09-27,,,UNKNOWN
+,PowerPoint 2019,Standard,Fixed,2018-09-24,,,UNKNOWN
+,PowerPoint 2019 for Mac,,Fixed,2018-09-24,,,UNKNOWN
+,PowerShell,,Modern,2018-01-20,,,UNKNOWN
+,PowerShell,,Modern,2018-01-20,,,UNKNOWN
+,PowerShell,,Modern,2018-01-20,,,UNKNOWN
+,PowerShell,,Modern,2018-01-20,,,UNKNOWN
+,PowerShell,,Modern,2018-01-20,,,UNKNOWN
+,PowerShell,,Modern,2018-01-20,,,UNKNOWN
+,PowerShell,,Modern,2018-01-20,,,UNKNOWN
+,Project 2010,Professional,Fixed,2010-07-15,,,UNKNOWN
+,Project 2010,Professional,Fixed,2010-07-15,,,UNKNOWN
+,Project 2010,Professional,Fixed,2010-07-15,,,UNKNOWN
+,Project 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Project 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Project 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Project 2013,Professional,Fixed,2013-01-09,,,UNKNOWN
+,Project 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Project 2016,Professional,Fixed,2015-09-22,,,UNKNOWN
+,Project 2016,Standard,Fixed,2015-09-22,,,UNKNOWN
+,Project 2019,Professional,Fixed,2018-09-24,,,UNKNOWN
+,Project 2019,Standard,Fixed,2018-09-24,,,UNKNOWN
+,Project for the web,,Modern,2019-10-29,,,UNKNOWN
+,Project Online Desktop Client,,Modern,2015-09-22,,,UNKNOWN
+,Project Server 2010,,Fixed,2010-07-15,,,UNKNOWN
+,Project Server 2010,,Fixed,2010-07-15,,,UNKNOWN
+,Project Server 2010,,Fixed,2010-07-15,,,UNKNOWN
+,Project Server 2013,,Fixed,2013-01-09,,,UNKNOWN
+,Project Server 2013,,Fixed,2013-01-09,,,UNKNOWN
+,Project Server Subscription Edition,,Modern,2021-11-02,,,UNKNOWN
+,Public IP address,,,,,,UNKNOWN
+,Publisher 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Publisher 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Publisher 2016,Standard,Fixed,2015-09-22,,,UNKNOWN
+,Publisher 2019,Standard,Fixed,2018-09-24,,,UNKNOWN
+,SAP HANA Large Instances (HLIs),,Modern,2016-09-26,,,UNKNOWN
+,Scheduler for Microsoft 365,,Modern,2021-06-08,,,UNKNOWN
+,Secured Dimensions SecureLM,.NET,Fixed,2007-03-30,,,UNKNOWN
+,Secured Dimensions SecureLM,Code Protector,Fixed,2007-03-30,,,UNKNOWN
+,Secured Dimensions SecureLM,Server,Fixed,2007-03-30,,,UNKNOWN
+,Service Bus for Windows Server,,Component,2012-10-18,,,UNKNOWN
+,Service Fabric stand-alone package for Windows Server,,Modern,2016-09-26,,,UNKNOWN
+,SharePoint Designer 2013,Designer,Fixed,2013-01-09,,,UNKNOWN
+,SharePoint Foundation 2010,,Fixed,2010-07-15,,,UNKNOWN
+,SharePoint Foundation 2010,,Fixed,2010-07-15,,,UNKNOWN
+,SharePoint Foundation 2010,,Fixed,2010-07-15,,,UNKNOWN
+,SharePoint Foundation 2013,,Fixed,2013-01-09,,,UNKNOWN
+,SharePoint Foundation 2013,,Fixed,2013-01-09,,,UNKNOWN
+,SharePoint Server 2013,,Fixed,2013-01-09,,,UNKNOWN
+,SharePoint Server 2013,,Fixed,2013-01-09,,,UNKNOWN
+,SharePoint Server Subscription Edition,,Modern,2021-11-02,,,UNKNOWN
+,SharePoint Team Services 1.0,,Fixed,2001-05-31,,,UNKNOWN
+,SharePoint Team Services 1.0,,Fixed,2001-05-31,,,UNKNOWN
+,SharePoint Team Services 1.0,,Fixed,2001-05-31,,,UNKNOWN
+,SharePoint Team Services 1.0,,Fixed,2001-05-31,,,UNKNOWN
+,SharePoint Workflow Manager,,Component,2022-12-26,,,UNKNOWN
+,Silverlight 4,,Fixed,2010-04-15,,,UNKNOWN
+,Silverlight 5,,Fixed,2011-12-09,,,UNKNOWN
+,Skype for Business 2015,,Fixed,2013-01-09,,,UNKNOWN
+,Skype for Business 2016,,Fixed,2015-09-22,,,UNKNOWN
+,Skype for Business 2019,,Fixed,2018-09-24,,,UNKNOWN
+,Skype for Business Online,,Modern,2015-05-01,,,UNKNOWN
+,Skype for Business Server 2015,,Fixed,2015-07-30,,,UNKNOWN
+,Skype for Business Server 2019,,Fixed,2018-10-22,,,UNKNOWN
+,Skype Room Systems v2,,Modern,2016-11-18,,,UNKNOWN
+,SoftGrid Application Virtualization,4.1 for Desktops,Fixed,2007-05-25,,,UNKNOWN
+,SoftGrid Application Virtualization,4.2 for Desktops,Fixed,2007-05-25,,,UNKNOWN
+,SoftGrid Application Virtualization,for Terminal Services 4.1,Fixed,2007-05-25,,,UNKNOWN
+,Softgrid for Terminal Server (MDOP),,Fixed,2007-01-01,,,UNKNOWN
+,Software Licensing and Protection Server,Enterprise,Fixed,2007-12-30,,,UNKNOWN
+,Software Licensing and Protection Server,Standard,Fixed,2007-12-30,,,UNKNOWN
+,Solution,,,,,,UNKNOWN
+,SQL server,,,,,,UNKNOWN
+,SQL Server 2014,Business Intelligence,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Business Intelligence,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Business Intelligence,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Business Intelligence,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Business Intelligence,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Developer,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Developer,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Developer,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Developer,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Developer,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Enterprise,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Enterprise,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Enterprise,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Enterprise,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Enterprise,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Enterprise Core,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Enterprise Core,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Enterprise Core,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Enterprise Core,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Enterprise Core,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Express,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Express,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Express,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Express,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Express,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Standard,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Standard,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Standard,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Standard,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Standard,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Web,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Web,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Web,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Web,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Web,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2016,Developer,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Developer,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Developer,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Enterprise,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Enterprise,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Enterprise,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Enterprise Core,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Enterprise Core,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Enterprise Core,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Express,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Express,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Express,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Standard,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Standard,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Standard,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Web,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Web,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Web,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server Management Studio,,Modern,2016-05-27,,,UNKNOWN
+,Storage Account,,,,,,UNKNOWN
+,StorSimple 5000/7000 Series,,Fixed,2012-11-15,,,UNKNOWN
+,StorSimple Data Manager,,Fixed,2018-01-18,,,UNKNOWN
+,System Center Data Protection Manager Semi Annual Channel,,Modern,2018-02-08,,,UNKNOWN
+,System Center Data Protection Manager Semi Annual Channel,,Modern,2018-02-08,,,UNKNOWN
+,System Center Endpoint Protection,,Modern,2015-12-08,,,UNKNOWN
+,System Center Operations Manager 2007,,Fixed,2007-06-23,,,UNKNOWN
+,System Center Operations Manager 2007,,Fixed,2007-06-23,,,UNKNOWN
+,System Center Operations Manager 2007 R2,,Fixed,2009-08-20,,,UNKNOWN
+,System Center Operations Manager Semi Annual Channel,,Modern,2018-02-08,,,UNKNOWN
+,System Center Operations Manager Semi Annual Channel,,Modern,2018-02-08,,,UNKNOWN
+,System Center Orchestrator Semi Annual Channel,,Modern,2018-02-08,,,UNKNOWN
+,System Center Orchestrator Semi Annual Channel,,Modern,2018-02-08,,,UNKNOWN
+,System Center Reporting Manager 2006,,Fixed,2006-09-17,,,UNKNOWN
+,System Center Service Manager 2010,,Fixed,2010-06-29,,,UNKNOWN
+,System Center Service Manager Semi Annual Channel,,Modern,2018-02-08,,,UNKNOWN
+,System Center Service Manager Semi Annual Channel,,Modern,2018-02-08,,,UNKNOWN
+,System Center Virtual Machine Manager Semi Annual Channel,,Modern,2018-02-08,,,UNKNOWN
+,System Center Virtual Machine Manager Semi Annual Channel,,Modern,2018-02-08,,,UNKNOWN
+,"Test Agent, Controller",,Component,2014-01-15,,,UNKNOWN
+,User Experience Virtualization (UE-V) 1.0,,Fixed,2013-01-03,,,UNKNOWN
+,User Experience Virtualization (UE-V) 1.0,,Fixed,2013-01-03,,,UNKNOWN
+,User Experience Virtualization (UE-V) 2.0,,Fixed,2014-02-06,,,UNKNOWN
+,User Experience Virtualization (UE-V) 2.1,,Fixed,2015-03-08,,,UNKNOWN
+,User Experience Virtualization (UE-V) 2.1,,Fixed,2015-03-08,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Virtual machine scale set,,,,,,UNKNOWN
+,Virtual network gateway,,,,,,UNKNOWN
+,Virtual PC 2004,Express,Fixed,2004-01-20,,,UNKNOWN
+,Virtual PC 2004,Express,Fixed,2004-01-20,,,UNKNOWN
+,Virtual PC 2004,Standard,Fixed,2004-01-20,,,UNKNOWN
+,Virtual PC 2004,Standard,Fixed,2004-01-20,,,UNKNOWN
+,Virtual PC 2007,,Fixed,2007-05-05,,,UNKNOWN
+,Virtual PC 2007,,Fixed,2007-05-05,,,UNKNOWN
+,Virtual PC for Mac,,Fixed,2003-11-12,,,UNKNOWN
+,Virtual Server 2005,Enterprise,Fixed,2004-10-29,,,UNKNOWN
+,Virtual Server 2005,Management Pack,Fixed,2004-10-29,,,UNKNOWN
+,Virtual Server 2005,Standard,Fixed,2004-10-29,,,UNKNOWN
+,Virtual Server 2005 R2,Enterprise,Fixed,2006-01-28,,,UNKNOWN
+,Virtual Server 2005 R2,Enterprise,Fixed,2006-01-28,,,UNKNOWN
+,Virtual Server 2005 R2,Standard,Fixed,2006-01-28,,,UNKNOWN
+,Virtual Server 2005 R2,Standard,Fixed,2006-01-28,,,UNKNOWN
+,Virtual WAN hubs running on Cloud Services,,Modern,2018-09-03,,,UNKNOWN
+,Visio 2003,Professional,Fixed,2003-11-17,,,UNKNOWN
+,Visio 2003,Professional,Fixed,2003-11-17,,,UNKNOWN
+,Visio 2003,Professional,Fixed,2003-11-17,,,UNKNOWN
+,Visio 2003,Professional,Fixed,2003-11-17,,,UNKNOWN
+,Visio 2003,Standard,Fixed,2003-11-17,,,UNKNOWN
+,Visio 2003,Standard,Fixed,2003-11-17,,,UNKNOWN
+,Visio 2003,Standard,Fixed,2003-11-17,,,UNKNOWN
+,Visio 2003,Standard,Fixed,2003-11-17,,,UNKNOWN
+,Visio 2007,Professional,Fixed,2007-01-27,,,UNKNOWN
+,Visio 2007,Professional,Fixed,2007-01-27,,,UNKNOWN
+,Visio 2007,Professional,Fixed,2007-01-27,,,UNKNOWN
+,Visio 2007,Professional,Fixed,2007-01-27,,,UNKNOWN
+,Visio 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Visio 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Visio 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Visio 2007,Standard,Fixed,2007-01-27,,,UNKNOWN
+,Visio 2010,Premium,Fixed,2010-07-15,,,UNKNOWN
+,Visio 2010,Premium,Fixed,2010-07-15,,,UNKNOWN
+,Visio 2010,Premium,Fixed,2010-07-15,,,UNKNOWN
+,Visio 2010,Professional,Fixed,2010-07-15,,,UNKNOWN
+,Visio 2010,Professional,Fixed,2010-07-15,,,UNKNOWN
+,Visio 2010,Professional,Fixed,2010-07-15,,,UNKNOWN
+,Visio 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Visio 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Visio 2010,Standard,Fixed,2010-07-15,,,UNKNOWN
+,Visio 2013,Professional,Fixed,2013-01-09,,,UNKNOWN
+,Visio 2013,Professional,Fixed,2013-01-09,,,UNKNOWN
+,Visio 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Visio 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Visio 2016,Professional,Fixed,2015-09-22,,,UNKNOWN
+,Visio 2016,Standard,Fixed,2015-09-22,,,UNKNOWN
+,Visio 2019,Professional,Fixed,2018-09-24,,,UNKNOWN
+,Visio 2019,Standard,Fixed,2018-09-24,,,UNKNOWN
+,Visio Plan 2,,Modern,2017-10-18,,,UNKNOWN
+,Visio Services in SharePoint (in Microsoft 365),,Modern,2010-04-16,,,UNKNOWN
+,Visual J# .NET Version 1.1 Redistributable Package,,Fixed,2003-07-08,,,UNKNOWN
+,Visual Studio 2008,Academic,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Academic,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,All,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,All,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Pro w/MSDN Premium,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Pro w/MSDN Premium,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Professional,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Professional,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Professional w/MSDN,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Professional w/MSDN,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Team Suite,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Team Suite,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Team Test Load Agent,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Team Test Load Agent,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,VB Express,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,VB Express,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Visual Basic Express,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Visual Basic Express,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Visual C# Express,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Visual C# Express,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Visual C++ Express,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Visual C++ Express,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Visual Web Developer Express,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2008,Visual Web Developer Express,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio 2010,Express for Web,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Express for Web,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Express for Windows Phone,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Express for Windows Phone,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Premium,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Premium,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Professional,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Professional,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Test Professional,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Test Professional,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Ultimate,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Ultimate,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Visual Basic Express,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Visual Basic Express,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Visual C# Express,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Visual C# Express,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Visual C++ Express,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Visual C++ Express,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Visual Web Developer Express,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2010,Visual Web Developer Express,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio 2012,Express for Web,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Express for Web,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Express for Web,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Express for Windows Desktop,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Express for Windows Desktop,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Express for Windows Desktop,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Premium,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Premium,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Premium,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Professional,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Professional,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Professional,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Team Explorer,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Team Explorer,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Team Explorer,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Ultimate,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Ultimate,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2012,Ultimate,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio 2013,Community,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Community,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Express for Web,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Express for Web,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Express for Windows,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Express for Windows,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Express for Windows Desktop,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Express for Windows Desktop,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Premium,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Premium,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Professional,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Professional,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Release Management,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Release Management,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Test Professional,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Test Professional,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Ultimate,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2013,Ultimate,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio 2015,Community,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Community,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Enterprise,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Enterprise,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Express for Web,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Express for Web,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Express for Windows 10,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Express for Windows 10,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Express for Windows Desktop,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Express for Windows Desktop,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Professional,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Professional,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Release Management,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Release Management,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Test Professional,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2015,Test Professional,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio 2017,Community,Fixed,2017-03-07,,,UNKNOWN
+,Visual Studio 2017,Enterprise,Fixed,2017-03-07,,,UNKNOWN
+,Visual Studio 2017,Professional,Fixed,2017-03-07,,,UNKNOWN
+,Visual Studio 2017,Test Professional,Fixed,2017-03-07,,,UNKNOWN
+,Visual Studio 2019,Community,Fixed,2019-04-02,,,UNKNOWN
+,Visual Studio 2019,Community,Fixed,2019-04-02,,,UNKNOWN
+,Visual Studio 2019,Community,Fixed,2019-04-02,,,UNKNOWN
+,Visual Studio 2019,Community,Fixed,2019-04-02,,,UNKNOWN
+,Visual Studio 2019,Enterprise,Fixed,2019-04-02,,,UNKNOWN
+,Visual Studio 2019,Enterprise,Fixed,2019-04-02,,,UNKNOWN
+,Visual Studio 2019,Enterprise,Fixed,2019-04-02,,,UNKNOWN
+,Visual Studio 2019,Enterprise,Fixed,2019-04-02,,,UNKNOWN
+,Visual Studio 2019,Professional,Fixed,2019-04-02,,,UNKNOWN
+,Visual Studio 2019,Professional,Fixed,2019-04-02,,,UNKNOWN
+,Visual Studio 2019,Professional,Fixed,2019-04-02,,,UNKNOWN
+,Visual Studio 2019,Professional,Fixed,2019-04-02,,,UNKNOWN
+,Visual Studio 2022,Community,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Community,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Community,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Community,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Community,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Community,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Enterprise,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Enterprise,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Enterprise,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Enterprise,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Enterprise,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Enterprise,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Professional,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Professional,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Professional,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Professional,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Professional,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Professional,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio App Center,,Modern,2017-05-11,,,UNKNOWN
+,Visual Studio Code,,Modern,2016-04-14,,,UNKNOWN
+,Visual Studio for Mac,Community,Modern,2017-05-10,,,UNKNOWN
+,Visual Studio for Mac,Community,Modern,2017-05-10,,,UNKNOWN
+,Visual Studio for Mac,Community,Modern,2017-05-10,,,UNKNOWN
+,Visual Studio for Mac,Enterprise,Modern,2017-05-10,,,UNKNOWN
+,Visual Studio for Mac,Enterprise,Modern,2017-05-10,,,UNKNOWN
+,Visual Studio for Mac,Enterprise,Modern,2017-05-10,,,UNKNOWN
+,Visual Studio for Mac,Professional,Modern,2017-05-10,,,UNKNOWN
+,Visual Studio for Mac,Professional,Modern,2017-05-10,,,UNKNOWN
+,Visual Studio for Mac,Professional,Modern,2017-05-10,,,UNKNOWN
+,Visual Studio LightSwitch 2011,,Fixed,2011-10-30,,,UNKNOWN
+,Visual Studio Team Foundation Server 2005,,Fixed,2006-06-17,,,UNKNOWN
+,Visual Studio Team Foundation Server 2005,,Fixed,2006-06-17,,,UNKNOWN
+,Visual Studio Team Foundation Server 2010,All applicable,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio Team Foundation Server 2010,All applicable,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio Team Foundation Server 2010,External Connector,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio Team Foundation Server 2010,External Connector,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio Team Foundation Server 2010,Team Agents,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio Team Foundation Server 2010,Team Agents,Fixed,2010-06-29,,,UNKNOWN
+,Visual Studio Team Foundation Server 2012,All,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio Team Foundation Server 2012,All,Fixed,2012-10-31,,,UNKNOWN
+,Visual Studio Team Foundation Server 2013,All,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio Team Foundation Server 2013,All,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio Team Foundation Server 2013,Release Management,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio Team Foundation Server 2013,Release Management,Fixed,2014-01-15,,,UNKNOWN
+,Visual Studio Team Foundation Server 2015,All,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio Team Foundation Server 2015,All,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio Team Foundation Server 2015,All,Fixed,2015-07-20,,,UNKNOWN
+,Visual Studio Team Foundation Server 2017,,Fixed,2016-11-16,,,UNKNOWN
+,Visual Studio Team System 2008,All,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio Team System 2008,All,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio Team System 2008,Architecture,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio Team System 2008,Architecture,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio Team System 2008,Database,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio Team System 2008,Database,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio Team System 2008,Development,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio Team System 2008,Development,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio Team System 2008,Team Explorer,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio Team System 2008,Team Explorer,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio Team System 2008,Team Test Load Agent,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio Team System 2008,Team Test Load Agent,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio Team System 2008,TFS,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio Team System 2008,TFS,Fixed,2008-02-19,,,UNKNOWN
+,Visual Studio Tools for the Microsoft Office System version 2003,,Fixed,2003-12-04,,,UNKNOWN
+,Viva Sales,,Modern,2022-10-01,,,UNKNOWN
+,Volume,,,,,,UNKNOWN
+,Whale Communications Intelligent Application Gateway,,Fixed,2007-10-10,,,UNKNOWN
+,Whale Communications Intelligent Application Gateway,,Fixed,2007-10-10,,,UNKNOWN
+,WinAutomation,,Fixed,2020-05-19,,,UNKNOWN
+,Windows 10 2015 LTSB,Enterprise,Fixed,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise multi-session,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise multi-session,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise multi-session,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise multi-session,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise multi-session,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise multi-session,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise multi-session,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise multi-session,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise multi-session,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise multi-session,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise multi-session,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise multi-session,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise multi-session,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Enterprise and Education,Enterprise multi-session,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Home,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Home,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Home,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Home,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Home,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Home,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Home,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Home,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Home,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Home,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Home,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Home,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Home,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Home,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro Education,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro for Workstations,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro for Workstations,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro for Workstations,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro for Workstations,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro for Workstations,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro for Workstations,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro for Workstations,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro for Workstations,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro for Workstations,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro for Workstations,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro for Workstations,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro for Workstations,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro for Workstations,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 Home and Pro,Pro for Workstations,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Core,,Modern,2015-04-29,,,UNKNOWN
+,Windows 10 IoT Core,,Modern,2015-04-29,,,UNKNOWN
+,Windows 10 IoT Core,,Modern,2015-04-29,,,UNKNOWN
+,Windows 10 IoT Core,,Modern,2015-04-29,,,UNKNOWN
+,Windows 10 IoT Core,,Modern,2015-04-29,,,UNKNOWN
+,Windows 10 IoT Core,,Modern,2015-04-29,,,UNKNOWN
+,Windows 10 IoT Core,,Modern,2015-04-29,,,UNKNOWN
+,Windows 10 IoT Core Services,,Modern,2018-11-13,,,UNKNOWN
+,Windows 10 IoT Enterprise,,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Enterprise,,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Enterprise,,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Enterprise,,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Enterprise,,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Enterprise,,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Enterprise,,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Enterprise,,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Enterprise,,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Enterprise,,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Enterprise,,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Enterprise,,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Enterprise,,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Enterprise,,Modern,2015-07-29,,,UNKNOWN
+,Windows 10 IoT Enterprise LTSB 2015,,Fixed,2015-07-29,,,UNKNOWN
+,"Windows 10 Mobile Enterprise, released in April 2017",,Fixed,2017-04-25,,,UNKNOWN
+,"Windows 10 Mobile Enterprise, released in August 2016",,Fixed,2016-08-16,,,UNKNOWN
+,"Windows 10 Mobile Enterprise, released in November 2015",,Fixed,2015-11-16,,,UNKNOWN
+,"Windows 10 Mobile Enterprise, released in October 2017",,Fixed,2017-10-17,,,UNKNOWN
+,"Windows 10 Mobile, released in April 2017",,Fixed,2017-04-25,,,UNKNOWN
+,"Windows 10 Mobile, released in August 2016",,Fixed,2016-08-16,,,UNKNOWN
+,"Windows 10 Mobile, released in November 2015",,Fixed,2015-11-16,,,UNKNOWN
+,"Windows 10 Mobile, released in October 2017",,Fixed,2017-10-17,,,UNKNOWN
+,Windows 10 Team (Surface Hub),,Fixed,2016-03-25,,,UNKNOWN
+,Windows 11 Enterprise and Education,Education,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Enterprise and Education,Education,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Enterprise and Education,Enterprise,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Enterprise and Education,Enterprise,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Enterprise and Education,Enterprise multi-session,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Enterprise and Education,Enterprise multi-session,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Home,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Home,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Home,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Pro,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Pro,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Pro,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Pro Education,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Pro Education,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Pro Education,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Pro for Workstations,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Pro for Workstations,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Pro for Workstations,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,SE,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,SE,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,SE,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 IoT Enterprise,,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 IoT Enterprise,,Modern,2021-10-04,,,UNKNOWN
+,Windows 365,Business,Modern,2021-08-02,,,UNKNOWN
+,Windows 365,Enterprise,Modern,2021-08-02,,,UNKNOWN
+,Windows 7,Enterprise,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Enterprise,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Enterprise,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Enterprise,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Enterprise,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Enterprise N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Enterprise N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Enterprise N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Enterprise N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Enterprise N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Basic,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Basic,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Basic,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Basic,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Basic,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Premium,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Premium,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Premium,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Premium,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Premium,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Premium N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Premium N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Premium N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Premium N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Home Premium N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional for Embedded Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional for Embedded Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional for Embedded Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional for Embedded Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional for Embedded Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Professional N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Starter,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Starter,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Starter,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Starter,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Starter,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Starter N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Starter N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Starter N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Starter N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Starter N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate for Embedded Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate for Embedded Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate for Embedded Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate for Embedded Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate for Embedded Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 7,Ultimate N,Fixed,2009-10-22,,,UNKNOWN
+,Windows 8,Enterprise,Fixed,2012-10-30,,,UNKNOWN
+,Windows 8,Enterprise N,Fixed,2012-10-30,,,UNKNOWN
+,Windows 8,N,Fixed,2012-10-30,,,UNKNOWN
+,Windows 8,Pro with Media Center,Fixed,2012-10-30,,,UNKNOWN
+,Windows 8,Professional,Fixed,2012-10-30,,,UNKNOWN
+,Windows 8,Professional N,Fixed,2012-10-30,,,UNKNOWN
+,Windows 8,SL,Fixed,2012-10-30,,,UNKNOWN
+,Windows 8.1,Enterprise,Fixed,2013-11-13,,,UNKNOWN
+,Windows 8.1,Enterprise N,Fixed,2013-11-13,,,UNKNOWN
+,Windows 8.1,N,Fixed,2013-11-13,,,UNKNOWN
+,Windows 8.1,Pro with Media Center,Fixed,2013-11-13,,,UNKNOWN
+,Windows 8.1,Professional,Fixed,2013-11-13,,,UNKNOWN
+,Windows 8.1,Professional N,Fixed,2013-11-13,,,UNKNOWN
+,Windows 8.1,SL,Fixed,2013-11-13,,,UNKNOWN
+,Windows Analytics,,Modern,2017-03-02,,,UNKNOWN
+,Windows Automated Installation Kit for Windows 7,,Fixed,2009-10-22,,,UNKNOWN
+,Windows Automotive 4.2,,Fixed,2003-06-01,,,UNKNOWN
+,Windows Automotive 5.0,,Fixed,2005-12-31,,,UNKNOWN
+,Windows Azure Pack (on Windows Server 2012 R2),on Windows Server 2012 R2,Fixed,2014-01-14,,,UNKNOWN
+,Windows Azure Pack (on Windows Server 2012 R2),on Windows Server 2012 R2,Fixed,2014-01-14,,,UNKNOWN
+,Windows CE .NET 4.2,,Fixed,2003-06-01,,,UNKNOWN
+,Windows CE 5.0,,Fixed,2004-08-31,,,UNKNOWN
+,Windows Communication Foundation RIA Services,,Fixed,2010-08-12,,,UNKNOWN
+,Windows Defender Exploit Guard,,Component,2017-10-17,,,UNKNOWN
+,Windows Defender for Windows 10,,Component,2015-07-29,,,UNKNOWN
+,Windows Defender For Windows 8 and 8.1,,Component,2012-10-30,,,UNKNOWN
+,Windows Defender For Windows 8 and 8.1,,Component,2012-10-30,,,UNKNOWN
+,Windows Embedded 2009,Standard,Fixed,2008-12-14,,,UNKNOWN
+,Windows Embedded 8,Pro,Fixed,2012-10-30,,,UNKNOWN
+,Windows Embedded 8 Industry,Enterprise,Fixed,2013-06-24,,,UNKNOWN
+,Windows Embedded 8 Industry,Pro,Fixed,2013-06-24,,,UNKNOWN
+,Windows Embedded 8 Standard,,Fixed,2013-05-01,,,UNKNOWN
+,Windows Embedded 8.1 Handheld,,Fixed,2014-06-24,,,UNKNOWN
+,Windows Embedded 8.1 Industry,Enterprise,Fixed,2013-11-25,,,UNKNOWN
+,Windows Embedded 8.1 Industry,Pro,Fixed,2013-11-25,,,UNKNOWN
+,Windows Embedded 8.1 Industry,Sideloading,Fixed,2013-11-25,,,UNKNOWN
+,Windows Embedded 8.1 Pro,,Fixed,2013-11-13,,,UNKNOWN
+,Windows Embedded CE 6.0,,Fixed,2006-11-30,,,UNKNOWN
+,Windows Embedded Compact 2013,,Fixed,2013-08-11,,,UNKNOWN
+,Windows Embedded Compact 7,,Fixed,2011-03-15,,,UNKNOWN
+,Windows Embedded Device Manager 2011,Client,Fixed,2011-05-29,,,UNKNOWN
+,Windows Embedded Device Manager 2011,Client,Fixed,2011-05-29,,,UNKNOWN
+,Windows Embedded Device Manager 2011,SDK,Fixed,2011-05-29,,,UNKNOWN
+,Windows Embedded Device Manager 2011,SDK,Fixed,2011-05-29,,,UNKNOWN
+,Windows Embedded Device Manager 2011,Server,Fixed,2011-05-29,,,UNKNOWN
+,Windows Embedded Device Manager 2011,Server,Fixed,2011-05-29,,,UNKNOWN
+,Windows Embedded for Point of Service,,Fixed,2005-06-06,,,UNKNOWN
+,Windows Embedded for Point of Service,,Fixed,2005-06-06,,,UNKNOWN
+,Windows Embedded Handheld 6.5,,Fixed,2010-12-17,,,UNKNOWN
+,Windows Embedded POSReady 2009,,Fixed,2009-03-10,,,UNKNOWN
+,Windows Embedded POSReady 7,,Fixed,2011-09-10,,,UNKNOWN
+,Windows Embedded POSReady 7,,Fixed,2011-09-10,,,UNKNOWN
+,Windows Embedded POSReady 7,,Fixed,2011-09-10,,,UNKNOWN
+,Windows Embedded POSReady 7,,Fixed,2011-09-10,,,UNKNOWN
+,Windows Embedded Standard 7,Standard,Fixed,2010-07-29,,,UNKNOWN
+,Windows Embedded Standard 7,Standard,Fixed,2010-07-29,,,UNKNOWN
+,Windows Embedded Standard 7,Standard,Fixed,2010-07-29,,,UNKNOWN
+,Windows Embedded Standard 7,Standard,Fixed,2010-07-29,,,UNKNOWN
+,Windows Embedded Standard 7,Standard,Fixed,2010-07-29,,,UNKNOWN
+,Windows Essential Business Server 2008,,Fixed,2008-12-12,,,UNKNOWN
+,Windows Fundamentals for Legacy PCs,,Fixed,2006-05-31,,,UNKNOWN
+,Windows Fundamentals for Legacy PCs,,Fixed,2006-05-31,,,UNKNOWN
+,Windows Home Server,,Fixed,2007-10-11,,,UNKNOWN
+,Windows Home Server 2011,,Fixed,2011-06-28,,,UNKNOWN
+,Windows HPC Server 2008,Standard,Fixed,2008-12-29,,,UNKNOWN
+,Windows HPC Server 2008,Standard,Fixed,2008-12-29,,,UNKNOWN
+,Windows HPC Server 2008,without Hyper-V,Fixed,2008-12-29,,,UNKNOWN
+,Windows HPC Server 2008,without Hyper-V,Fixed,2008-12-29,,,UNKNOWN
+,Windows HPC Server 2008 R2,,Fixed,2010-10-17,,,UNKNOWN
+,Windows HPC Server 2008 R2,,Fixed,2010-10-17,,,UNKNOWN
+,Windows Identity Foundation,,Fixed,2010-02-14,,,UNKNOWN
+,Windows Live OneCare,,Modern,2007-09-04,,,UNKNOWN
+,Windows Media Encoder 9 Series,64 Bit,Fixed,2002-11-15,,,UNKNOWN
+,Windows Media Encoder 9 Series,Standard,Fixed,2002-11-15,,,UNKNOWN
+,Windows Mobile 2003,for Pocket PC,Fixed,2004-05-31,,,UNKNOWN
+,Windows Mobile 2003,for Smartphones,Fixed,2004-05-31,,,UNKNOWN
+,Windows Mobile 2003,Second Edition software for Pocket PC Phone,Fixed,2004-05-31,,,UNKNOWN
+,Windows Mobile 2003,Second Edition software for Smartphone,Fixed,2004-05-31,,,UNKNOWN
+,Windows Mobile 5.0,for Pocket PC,Fixed,2005-07-31,,,UNKNOWN
+,Windows Mobile 5.0,for Smartphones,Fixed,2005-07-31,,,UNKNOWN
+,Windows Mobile 6,Classic,Fixed,2007-05-12,,,UNKNOWN
+,Windows Mobile 6,Professional,Fixed,2007-05-12,,,UNKNOWN
+,Windows Mobile 6,Standard,Fixed,2007-05-12,,,UNKNOWN
+,Windows Mobile 6.1,Adaptation Kit,Fixed,2008-07-01,,,UNKNOWN
+,Windows Mobile 6.1,Professional,Fixed,2008-07-01,,,UNKNOWN
+,Windows Mobile 6.1,Standard,Fixed,2008-07-01,,,UNKNOWN
+,Windows Mobile 6.5,Professional,Fixed,2009-09-10,,,UNKNOWN
+,Windows Mobile 6.5,Standard,Fixed,2009-09-10,,,UNKNOWN
+,Windows MovieMaker 2.0,,Fixed,2003-02-20,,,UNKNOWN
+,Windows MultiPoint Server 2010,Academic,Fixed,2010-05-13,,,UNKNOWN
+,Windows MultiPoint Server 2010,Standard,Fixed,2010-05-13,,,UNKNOWN
+,Windows MultiPoint Server 2011,Premium,Fixed,2011-05-12,,,UNKNOWN
+,Windows MultiPoint Server 2011,Standard,Fixed,2011-05-12,,,UNKNOWN
+,Windows MultiPoint Server 2012,Premium,Fixed,2012-10-30,,,UNKNOWN
+,Windows MultiPoint Server 2012,Standard,Fixed,2012-10-30,,,UNKNOWN
+,Windows Phone 7.8,,Fixed,2013-02-09,,,UNKNOWN
+,Windows Phone 8,,Fixed,2012-12-14,,,UNKNOWN
+,Windows Phone 8.1,,Fixed,2014-06-24,,,UNKNOWN
+,Windows RT,8.1,Fixed,2012-10-30,,,UNKNOWN
+,Windows RT,8.1,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2003,Datacenter (32-bit x86),Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Datacenter (32-bit x86),Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Datacenter (32-bit x86),Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Datacenter (x64),Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Datacenter (x64),Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Datacenter (x64),Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Datacenter for Itanium-Based Systems,Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Datacenter for Itanium-Based Systems,Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Datacenter for Itanium-Based Systems,Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Enterprise (32-Bit x86),Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Enterprise (32-Bit x86),Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Enterprise (32-Bit x86),Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Enterprise for Itanium-based Systems,Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Enterprise for Itanium-based Systems,Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Enterprise for Itanium-based Systems,Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Enterprise X64,Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Enterprise X64,Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Enterprise X64,Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Standard (32-bit x86),Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Standard (32-bit x86),Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Standard (32-bit x86),Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Web,Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Web,Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003,Web,Fixed,2003-05-28,,,UNKNOWN
+,Windows Server 2003 R2,Datacenter,Fixed,2006-03-05,,,UNKNOWN
+,Windows Server 2003 R2,Datacenter,Fixed,2006-03-05,,,UNKNOWN
+,Windows Server 2003 R2,Datacenter (32-bit x86),Fixed,2006-03-05,,,UNKNOWN
+,Windows Server 2003 R2,Datacenter (32-bit x86),Fixed,2006-03-05,,,UNKNOWN
+,Windows Server 2003 R2,Datacenter (x64),Fixed,2006-03-05,,,UNKNOWN
+,Windows Server 2003 R2,Datacenter (x64),Fixed,2006-03-05,,,UNKNOWN
+,Windows Server 2003 R2,Enterprise (32-Bit x86),Fixed,2006-03-05,,,UNKNOWN
+,Windows Server 2003 R2,Enterprise (32-Bit x86),Fixed,2006-03-05,,,UNKNOWN
+,Windows Server 2003 R2,Enterprise X64,Fixed,2006-03-05,,,UNKNOWN
+,Windows Server 2003 R2,Enterprise X64,Fixed,2006-03-05,,,UNKNOWN
+,Windows Server 2003 R2,Standard (32-bit x86),Fixed,2006-03-05,,,UNKNOWN
+,Windows Server 2003 R2,Standard (32-bit x86),Fixed,2006-03-05,,,UNKNOWN
+,Windows Server 2003 R2,Standard X64,Fixed,2006-03-05,,,UNKNOWN
+,Windows Server 2003 R2,Standard X64,Fixed,2006-03-05,,,UNKNOWN
+,Windows Server 2008,Datacenter,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Datacenter,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Datacenter,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Datacenter,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Datacenter,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Datacenter,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Datacenter without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Datacenter without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Datacenter without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Datacenter without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Datacenter without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Datacenter without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Enterprise,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Enterprise,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Enterprise,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Enterprise,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Enterprise,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Enterprise,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Enterprise without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Enterprise without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Enterprise without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Enterprise without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Enterprise without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Enterprise without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,for Itanium-Based Systems,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,for Itanium-Based Systems,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,for Itanium-Based Systems,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,for Itanium-Based Systems,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,for Itanium-Based Systems,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,for Itanium-Based Systems,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Foundation,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Foundation,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Foundation,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Foundation,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Foundation,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Foundation,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Standard,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Standard,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Standard,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Standard,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Standard,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Standard,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Standard without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Standard without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Standard without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Standard without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Standard without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Standard without Hyper-V,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Web,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Web,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Web,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Web,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Web,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008,Web,Fixed,2008-05-06,,,UNKNOWN
+,Windows Server 2008 for Windows Essential Server Solutions,Standard,Fixed,2009-02-18,,,UNKNOWN
+,Windows Server 2008 for Windows Essential Server Solutions,Standard,Fixed,2009-02-18,,,UNKNOWN
+,Windows Server 2008 for Windows Essential Server Solutions,without Hyper-V,Fixed,2009-02-18,,,UNKNOWN
+,Windows Server 2008 for Windows Essential Server Solutions,without Hyper-V,Fixed,2009-02-18,,,UNKNOWN
+,Windows Server 2008 R2,Datacenter,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Datacenter,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Datacenter,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Datacenter,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Datacenter,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Datacenter,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Enterprise,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Enterprise,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Enterprise,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Enterprise,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Enterprise,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Enterprise,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,HPC Edition,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,HPC Edition,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,HPC Edition,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,HPC Edition,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,HPC Edition,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,HPC Edition,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Itanium-Based Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Itanium-Based Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Itanium-Based Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Itanium-Based Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Itanium-Based Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Itanium-Based Systems,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Standard,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Standard,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Standard,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Standard,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Standard,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Standard,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Web,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Web,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Web,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Web,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Web,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2008 R2,Web,Fixed,2009-10-22,,,UNKNOWN
+,Windows Server 2012,Datacenter,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,Datacenter,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,Datacenter,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,Essentials,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,Essentials,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,Essentials,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,External Connector,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,External Connector,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,External Connector,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,for Embedded Systems,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,for Embedded Systems,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,for Embedded Systems,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,Foundation,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,Foundation,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,Foundation,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,Standard,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,Standard,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,Standard,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012 R2,Datacenter,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,Datacenter,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,Datacenter,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,Essentials,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,Essentials,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,Essentials,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,for Embedded Systems,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,for Embedded Systems,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,for Embedded Systems,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,Foundation,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,Foundation,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,Foundation,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,Standard,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,Standard,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,Standard,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2016 Nano Server installation option,Datacenter,Modern,2016-10-15,,,UNKNOWN
+,Windows Server 2016 Nano Server installation option,Standard,Modern,2016-10-15,,,UNKNOWN
+,Windows Server 2025 Datacenter,Azure,Modern,2024-09-10,,,UNKNOWN
+,Windows Server Annual Channel,Datacenter,Modern,2023-10-24,,,UNKNOWN
+,Windows Server Semi-Annual Channel,Datacenter,Modern,2017-10-17,,,UNKNOWN
+,Windows Server Semi-Annual Channel,Datacenter,Modern,2017-10-17,,,UNKNOWN
+,Windows Server Semi-Annual Channel,Datacenter,Modern,2017-10-17,,,UNKNOWN
+,Windows Server Semi-Annual Channel,Datacenter,Modern,2017-10-17,,,UNKNOWN
+,Windows Server Semi-Annual Channel,Datacenter,Modern,2017-10-17,,,UNKNOWN
+,Windows Server Semi-Annual Channel,Datacenter,Modern,2017-10-17,,,UNKNOWN
+,Windows Server Semi-Annual Channel,Datacenter,Modern,2017-10-17,,,UNKNOWN
+,Windows Server Semi-Annual Channel,Standard,Modern,2017-10-17,,,UNKNOWN
+,Windows Server Semi-Annual Channel,Standard,Modern,2017-10-17,,,UNKNOWN
+,Windows Server Semi-Annual Channel,Standard,Modern,2017-10-17,,,UNKNOWN
+,Windows Server Semi-Annual Channel,Standard,Modern,2017-10-17,,,UNKNOWN
+,Windows Server Semi-Annual Channel,Standard,Modern,2017-10-17,,,UNKNOWN
+,Windows Server Semi-Annual Channel,Standard,Modern,2017-10-17,,,UNKNOWN
+,Windows Server Semi-Annual Channel,Standard,Modern,2017-10-17,,,UNKNOWN
+,Windows Server Update Services 3.0,,Fixed,2007-07-10,,,UNKNOWN
+,Windows Server Update Services 3.0,,Fixed,2007-07-10,,,UNKNOWN
+,Windows Server Update Services 3.0,,Fixed,2007-07-10,,,UNKNOWN
+,Windows Server Update Services for Windows Server 2012,,Component,2012-10-30,,,UNKNOWN
+,Windows Server Update Services for Windows Server 2012 R2,,Component,2013-11-25,,,UNKNOWN
+,Windows Small Business Server 2008,Premium,Fixed,2008-11-21,,,UNKNOWN
+,Windows Small Business Server 2008,Standard,Fixed,2008-11-21,,,UNKNOWN
+,Windows Small Business Server 2011,Essentials,Fixed,2011-03-09,,,UNKNOWN
+,Windows Small Business Server 2011,Premium Add-On,Fixed,2011-03-09,,,UNKNOWN
+,Windows Small Business Server 2011,Standard,Fixed,2011-03-09,,,UNKNOWN
+,Windows Storage Server 2003,,Fixed,2003-05-05,,,UNKNOWN
+,Windows Storage Server 2003 R2,Standard,Fixed,2006-03-05,,,UNKNOWN
+,Windows Storage Server 2003 R2,Standard,Fixed,2006-03-05,,,UNKNOWN
+,Windows Storage Server 2008,Basic,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Basic,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Basic 32-Bit,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Basic 32-Bit,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Basic 64-bit,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Basic 64-bit,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Basic Embedded,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Basic Embedded,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Basic Embedded 32-bit,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Basic Embedded 32-bit,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Enterprise,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Enterprise,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Enterprise Embedded,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Enterprise Embedded,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Standard,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Standard,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Standard Embedded,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Standard Embedded,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Workgroup,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008,Workgroup,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008 Embedded,32 Bit,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008 Embedded,64 Bit,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008 Embedded,Basic,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008 Embedded,Basic 32-Bit,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008 Embedded,Enterprise,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008 Embedded,Standard,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008 Embedded,Workgroup,Fixed,2009-07-19,,,UNKNOWN
+,Windows Storage Server 2008 R2,Essentials,Fixed,2010-12-20,,,UNKNOWN
+,Windows Storage Server 2008 R2,Essentials,Fixed,2010-12-20,,,UNKNOWN
+,Windows Storage Server 2008 R2,Standard,Fixed,2010-12-20,,,UNKNOWN
+,Windows Storage Server 2008 R2,Standard,Fixed,2010-12-20,,,UNKNOWN
+,Windows Storage Server 2012,Standard,Fixed,2012-10-30,,,UNKNOWN
+,Windows Storage Server 2012,Workgroup,Fixed,2012-10-30,,,UNKNOWN
+,Windows Storage Server 2012 R2,Standard,Fixed,2013-11-25,,,UNKNOWN
+,Windows Storage Server 2012 R2,Workgroup,Fixed,2013-11-25,,,UNKNOWN
+,Windows Thin PC,,Fixed,2011-07-01,,,UNKNOWN
+,Windows Vista,Business,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Business,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Business,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Business N,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Business N,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Business N,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Business N 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Business N 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Business N 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Enterprise,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Enterprise,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Enterprise,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Enterprise (64-bit),Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Enterprise (64-bit),Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Enterprise (64-bit),Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Enterprise X64,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Enterprise X64,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Enterprise X64,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Basic,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Basic,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Basic,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Basic 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Basic 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Basic 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Basic N,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Basic N,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Basic N,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Basic N 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Basic N 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Basic N 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Premium,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Premium,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Premium,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Premium 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Premium 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Home Premium 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Starter,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Starter,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Starter,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Ultimate,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Ultimate,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Ultimate,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Ultimate 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Ultimate 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Vista,Ultimate 64-bit,Fixed,2007-01-25,,,UNKNOWN
+,Windows Web Server 2008,Standard,Fixed,2008-05-06,,,UNKNOWN
+,Windows Web Server 2008,Standard,Fixed,2008-05-06,,,UNKNOWN
+,Windows Web Server 2008,Standard,Fixed,2008-05-06,,,UNKNOWN
+,Windows XP,Home,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Home,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Home,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Home,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Home,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional for Embedded Systems,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional for Embedded Systems,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional for Embedded Systems,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional for Embedded Systems,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional for Embedded Systems,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional x64,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional x64,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional x64,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional x64,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Professional x64,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Starter,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Starter,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Starter,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Starter,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP,Starter,Fixed,2001-12-31,,,UNKNOWN
+,Windows XP Embedded,Embedded,Fixed,2002-01-30,,,UNKNOWN
+,Windows XP Embedded,Embedded,Fixed,2002-01-30,,,UNKNOWN
+,Windows XP Embedded,Embedded,Fixed,2002-01-30,,,UNKNOWN
+,Windows XP Embedded,Embedded,Fixed,2002-01-30,,,UNKNOWN
+,Windows XP Media Center Edition 2005,Extender,Fixed,2004-12-30,,,UNKNOWN
+,Windows XP Shared Computer Toolkit 1.0,,Component,2005-08-24,,,UNKNOWN
+,Windows XP Tablet PC Edition,PC,Fixed,2003-02-11,,,UNKNOWN
+,Windows XP Tablet PC Edition,PC,Fixed,2003-02-11,,,UNKNOWN
+,Windows XP Tablet PC Edition,PC,Fixed,2003-02-11,,,UNKNOWN
+,WinTarget 2.0,Advanced,Fixed,2006-03-07,,,UNKNOWN
+,WinTarget 2.0,Standard,Fixed,2006-03-07,,,UNKNOWN
+,Winternals,Administrator's Pak 5.0,Fixed,2007-01-01,,,UNKNOWN
+,Winternals,Defrag Manager 3.0,Fixed,2007-01-01,,,UNKNOWN
+,Winternals,Protection Manager 2.0,Fixed,2007-01-01,,,UNKNOWN
+,Winternals,Recovery Manager 3.0,Fixed,2007-01-01,,,UNKNOWN
+,Word 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Word 2016,Standard,Fixed,2015-09-22,,,UNKNOWN
+,Word 2016 for Mac,,Fixed,2015-09-27,,,UNKNOWN
+,Word 2019,Standard,Fixed,2018-09-24,,,UNKNOWN
+,Word 2019 for Mac,,Fixed,2018-09-24,,,UNKNOWN
+,Wunderlist,,Fixed,2015-06-02,,,UNKNOWN
+,Xamarin Community Toolkit,,Modern,2021-01-07,,,UNKNOWN
+,Xamarin.Android,,Modern,2013-02-19,,,UNKNOWN
+,Xamarin.Essentials,,Modern,2018-12-01,,,UNKNOWN
+,Xamarin.Forms,,Modern,2014-05-28,,,UNKNOWN
+,Xamarin.iOS,,Modern,2013-02-19,,,UNKNOWN
+,Xamarin.Mac,,Modern,2012-12-12,,,UNKNOWN
+,Key vault,,,,,,UNKNOWN
+,Azure DevOps Server 2022,,Fixed,2022-12-06,,,UNKNOWN
+,SQL Server 2022,on Linux (all editions),Fixed,2022-11-16,,,UNKNOWN
+,SQL Server 2022,on Windows (all editions),Fixed,2022-11-16,,,UNKNOWN
+,Batch account,,,,,,UNKNOWN
+,BizTalk Server 2016,Branch,Fixed,2016-12-01,,,UNKNOWN
+,BizTalk Server 2016,Developer,Fixed,2016-12-01,,,UNKNOWN
+,BizTalk Server 2016,Enterprise,Fixed,2016-12-01,,,UNKNOWN
+,BizTalk Server 2016,Standard,Fixed,2016-12-01,,,UNKNOWN
+,Dynamics NAV 2017,,Fixed,2016-10-27,,,UNKNOWN
+,HPC Pack 2016,,Fixed,2016-12-29,,,UNKNOWN
+,Hyper-V Server 2016,,Fixed,2016-10-15,,,UNKNOWN
+,Internet Information Services (IIS),,Component,2003-05-28,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft Host Integration Server 2016,,Fixed,2016-12-31,,,UNKNOWN
+,Microsoft System Center Configuration Manager (LTSB - version 1606),,Fixed,2016-10-12,,,UNKNOWN
+,System Center 2016 Data Protection,,Fixed,2016-10-28,,,UNKNOWN
+,System Center 2016 Operations Manager,,Fixed,2016-10-28,,,UNKNOWN
+,System Center 2016 Orchestrator,,Fixed,2016-10-28,,,UNKNOWN
+,System Center 2016 Service Manager,,Fixed,2016-10-28,,,UNKNOWN
+,System Center 2016 Virtual Machine Manager,,Fixed,2016-10-28,,,UNKNOWN
+,Visual Studio Team Foundation Server 2017,,Fixed,2016-11-16,,,UNKNOWN
+,Windows 10 Enterprise LTSC 2021,,Fixed,2021-11-16,,,UNKNOWN
+,Windows Azure Pack (on Windows Server 2016),,Fixed,2016-10-12,,,UNKNOWN
+,Windows Defender for Windows Server 2016,,Component,2016-10-15,,,UNKNOWN
+,Windows Server 2016,Datacenter,Fixed,2016-10-15,,,UNKNOWN
+,Windows Server 2016,Essentials,Fixed,2016-10-15,,,UNKNOWN
+,Windows Server 2016,MultiPoint Premium,Fixed,2016-10-15,,,UNKNOWN
+,Windows Server 2016,Standard,Fixed,2016-10-15,,,UNKNOWN
+,Windows Server Update Services for Windows Server 2016,,Component,2016-10-15,,,UNKNOWN
+,Windows Storage Server 2016,Standard,Fixed,2016-10-15,,,UNKNOWN
+,Windows Storage Server 2016,Workgroup,Fixed,2016-10-15,,,UNKNOWN
+,System Center 2022 Data Protection Manager,,Fixed,2022-04-01,,,UNKNOWN
+,System Center 2022 Operations Manager,,Fixed,2022-04-01,,,UNKNOWN
+,System Center 2022 Orchestrator,,Fixed,2022-04-01,,,UNKNOWN
+,System Center 2022 Service Manager,,Fixed,2022-04-01,,,UNKNOWN
+,System Center 2022 Virtual Machine Manager,,Fixed,2022-04-01,,,UNKNOWN
+,Visual Studio 2022,Community,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Enterprise,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Professional,Fixed,2021-11-08,,,UNKNOWN
+,Windows 10 IoT Enterprise LTSC 2021,,Fixed,2021-11-16,,,UNKNOWN
+,Windows Server 2022,Datacenter,Fixed,2021-08-18,,,UNKNOWN
+,Windows Server 2022,Datacenter: Azure Edition,Fixed,2021-08-18,,,UNKNOWN
+,Windows Server 2022,Essentials,Fixed,2021-08-18,,,UNKNOWN
+,Windows Server 2022,Standard,Fixed,2021-08-18,,,UNKNOWN
+,Windows Server 2022 Datacenter: Azure Edition,,Fixed,2021-11-02,,,UNKNOWN
+,Windows Server 2022 Standard (MSL),,Fixed,2021-08-18,,,UNKNOWN
+,Windows Server IoT 2022,Datacenter,Fixed,2021-08-18,,,UNKNOWN
+,Windows Server IoT 2022,Standard,Fixed,2021-08-18,,,UNKNOWN
+,Windows Server IoT 2022,Storage Standard,Fixed,2021-08-18,,,UNKNOWN
+,Windows Server IoT 2022,Storage Workgroup,Fixed,2021-08-18,,,UNKNOWN
+,Windows Server IoT 2022,Telecommunications,Fixed,2021-08-18,,,UNKNOWN
+,Azure Sphere Catalog,,,,,,UNKNOWN
+,Azure IoT Edge,,Modern,2018-06-28,,,UNKNOWN
+,Microsoft .NET and .NET Core,,Modern,2016-06-27,,,UNKNOWN
+,PowerShell,,Modern,2018-01-20,,,UNKNOWN
+,Windows 11 Enterprise and Education,Education,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Enterprise and Education,Enterprise,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Enterprise and Education,Enterprise multi-session,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 IoT Enterprise,,Modern,2021-10-04,,,UNKNOWN
+,Azure DevOps Server 2020,,Fixed,2020-08-25,,,UNKNOWN
+,Microsoft Robotics,,Fixed,2020-09-07,,,UNKNOWN
+,Microsoft Host Integration Server 2020,,Fixed,2020-06-01,,,UNKNOWN
+,Access 2021,,Modern,2021-10-05,,,UNKNOWN
+,Access LTSC 2021,,Fixed,2021-09-16,,,UNKNOWN
+,App service,,,,,,UNKNOWN
+,Azure Anomaly Detector,,Modern,2019-04-02,,,UNKNOWN
+,Azure Personalizer,,Modern,2019-11-01,,,UNKNOWN
+,Cognitive Service,,,,,,UNKNOWN
+,Cognitive Service,,,,,,UNKNOWN
+,Cognitive Service,,,,,,UNKNOWN
+,Databricks Workspace,,,,,,UNKNOWN
+,Dynamics 365 Business Central on-premises (Modern Policy),,Modern,2019-10-01,,,UNKNOWN
+,Excel 2021,Standard,Modern,2021-10-05,,,UNKNOWN
+,Excel 2021,Standard for Mac,Modern,2021-10-05,,,UNKNOWN
+,Excel LTSC 2021,Standard,Fixed,2021-09-16,,,UNKNOWN
+,Excel LTSC 2021,Standard for Mac,Fixed,2021-09-16,,,UNKNOWN
+,Office 2021,Home and Business,Modern,2021-10-05,,,UNKNOWN
+,Office 2021,Home and Business for Mac,Modern,2021-10-05,,,UNKNOWN
+,Office 2021,Home and Student,Modern,2021-10-05,,,UNKNOWN
+,Office 2021,Home and Student for Mac,Modern,2021-10-05,,,UNKNOWN
+,Office 2021,Professional,Modern,2021-10-05,,,UNKNOWN
+,Office LTSC 2021,Standard,Fixed,2021-09-16,,,UNKNOWN
+,Office LTSC 2021,Standard for Mac,Fixed,2021-09-16,,,UNKNOWN
+,Office LTSC 2021 for Mac,,Fixed,2021-10-05,,,UNKNOWN
+,OneNote 2021,Standard,Modern,2021-10-05,,,UNKNOWN
+,OneNote 2021,Standard for Mac,Modern,2021-10-05,,,UNKNOWN
+,OneNote LTSC 2021,,Fixed,2021-09-16,,,UNKNOWN
+,Outlook 2021,Standard,Modern,2021-10-05,,,UNKNOWN
+,Outlook 2021,Standard for Mac,Modern,2021-10-05,,,UNKNOWN
+,Outlook LTSC 2021,Standard,Fixed,2021-09-16,,,UNKNOWN
+,Outlook LTSC 2021,Standard for Mac,Fixed,2021-09-16,,,UNKNOWN
+,PowerPoint 2021,Standard,Modern,2021-10-05,,,UNKNOWN
+,PowerPoint 2021,Standard for Mac,Modern,2021-10-05,,,UNKNOWN
+,PowerPoint LTSC 2021,Standard,Fixed,2021-09-16,,,UNKNOWN
+,PowerPoint LTSC 2021,Standard for Mac,Fixed,2021-09-16,,,UNKNOWN
+,Project 2021,Professional,Modern,2021-10-05,,,UNKNOWN
+,Project 2021,Standard,Modern,2021-10-05,,,UNKNOWN
+,Project 2021 (LTSC),Professional,Fixed,2021-09-16,,,UNKNOWN
+,Project 2021 (LTSC),Standard,Fixed,2021-09-16,,,UNKNOWN
+,Publisher 2021,,Modern,2021-10-05,,,UNKNOWN
+,Publisher LTSC 2021,,Fixed,2021-09-16,,,UNKNOWN
+,Skype for Business LTSC 2021,,Fixed,2021-09-16,,,UNKNOWN
+,SQL database,,,,,,UNKNOWN
+,Storage Account,,,,,,UNKNOWN
+,Visio 2021,Professional,Modern,2021-10-05,,,UNKNOWN
+,Visio 2021,Standard,Modern,2021-10-05,,,UNKNOWN
+,Visio LTSC 2021,Professional,Fixed,2021-09-16,,,UNKNOWN
+,Visio LTSC 2021,Standard,Fixed,2021-09-16,,,UNKNOWN
+,Windows 10 2016 LTSB,Enterprise,Fixed,2016-08-02,,,UNKNOWN
+,Windows 10 IoT Enterprise LTSB 2016,,Fixed,2016-08-02,,,UNKNOWN
+,Windows 11 Home and Pro,Home,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Pro,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Pro Education,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,Pro for Workstations,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Home and Pro,SE,Modern,2021-10-04,,,UNKNOWN
+,Windows Server 2012,Datacenter,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,Essentials,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,External Connector,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,for Embedded Systems,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,Foundation,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012,Standard,Fixed,2012-10-30,,,UNKNOWN
+,Windows Server 2012 R2,Datacenter,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,Essentials,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,for Embedded Systems,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,Foundation,Fixed,2013-11-25,,,UNKNOWN
+,Windows Server 2012 R2,Standard,Fixed,2013-11-25,,,UNKNOWN
+,Word 2021,Standard,Modern,2021-10-05,,,UNKNOWN
+,Word 2021,Standard for Mac,Modern,2021-10-05,,,UNKNOWN
+,Word LTSC 2021,Standard,Fixed,2021-09-16,,,UNKNOWN
+,Word LTSC 2021,Standard for Mac,Fixed,2021-09-16,,,UNKNOWN
+,BizTalk Server 2020,Branch,Fixed,2020-02-01,,,UNKNOWN
+,BizTalk Server 2020,Developer,Fixed,2020-02-01,,,UNKNOWN
+,BizTalk Server 2020,Enterprise,Fixed,2020-02-01,,,UNKNOWN
+,BizTalk Server 2020,Standard,Fixed,2020-02-01,,,UNKNOWN
+,SQL Server 2019,on Linux (all editions),Fixed,2019-11-04,,,UNKNOWN
+,SQL Server 2019,on Windows (all editions),Fixed,2019-11-04,,,UNKNOWN
+,System Center 2025 Data Protection Manager,,Fixed,2024-11-01,,,UNKNOWN
+,System Center 2025 Operations Manager,,Fixed,2024-11-01,,,UNKNOWN
+,System Center 2025 Orchestrator,,Fixed,2024-11-01,,,UNKNOWN
+,System Center 2025 Service Manager,,Fixed,2024-11-01,,,UNKNOWN
+,System Center 2025 Virtual Machine Manager,,Fixed,2024-11-01,,,UNKNOWN
+,Dynamics GP,,Modern,2019-10-07,,,UNKNOWN
+,Access 2024,,Modern,2024-10-01,,,UNKNOWN
+,Access LTSC 2024,,Fixed,2024-09-18,,,UNKNOWN
+,Excel 2024,,Modern,2024-10-01,,,UNKNOWN
+,Excel LTSC 2024,,Fixed,2024-09-18,,,UNKNOWN
+,Office 2024,Home & Business (Windows & Mac),Modern,2024-10-01,,,UNKNOWN
+,Office 2024,Home (Windows & Mac),Modern,2024-10-01,,,UNKNOWN
+,Office LTSC 2024,Embedded,Fixed,2024-09-18,,,UNKNOWN
+,Office LTSC 2024,Professional Plus,Fixed,2024-09-18,,,UNKNOWN
+,Office LTSC 2024,Standard,Fixed,2024-09-18,,,UNKNOWN
+,OneNote 2024,,Modern,2024-10-01,,,UNKNOWN
+,OneNote LTSC 2024,,Fixed,2024-09-18,,,UNKNOWN
+,Outlook 2024,,Modern,2024-10-01,,,UNKNOWN
+,Outlook LTSC 2024,,Fixed,2024-09-18,,,UNKNOWN
+,PowerPoint LTSC 2024,,Fixed,2024-09-18,,,UNKNOWN
+,Project 2024,Professional,Modern,2024-10-01,,,UNKNOWN
+,Project 2024,Standard,Modern,2024-10-01,,,UNKNOWN
+,Project 2024 (LTSC),Professional,Fixed,2024-09-18,,,UNKNOWN
+,Project 2024 (LTSC),Standard,Fixed,2024-09-18,,,UNKNOWN
+,Skype for Business LTSC 2024,,Fixed,2024-09-18,,,UNKNOWN
+,Visio 2024,Professional,Modern,2024-10-01,,,UNKNOWN
+,Visio 2024,Standard,Modern,2024-10-01,,,UNKNOWN
+,Visio LTSC 2024,Professional,Fixed,2024-09-18,,,UNKNOWN
+,Visio LTSC 2024,Standard,Fixed,2024-09-18,,,UNKNOWN
+,Windows 11 Enterprise LTSC 2024,,Fixed,2024-10-01,,,UNKNOWN
+,Windows Server IoT 2025,Datacenter,Fixed,2024-11-01,,,UNKNOWN
+,Windows Server IoT 2025,Standard,Fixed,2024-11-01,,,UNKNOWN
+,Word 2024,,Modern,2024-10-01,,,UNKNOWN
+,Word LTSC 2024,,Fixed,2024-09-18,,,UNKNOWN
+,Availability test,,,,,,UNKNOWN
+,Azure API for FHIR,,,,,,UNKNOWN
+,Azure API for FHIR,,Modern,2019-10-24,,,UNKNOWN
+,Azure FXT Edge Filer,,Modern,2019-07-02,,,UNKNOWN
+,Azure Maps Account,,,,,,UNKNOWN
+,Azure Monitor workspace,,,,,,UNKNOWN
+,FHIR service,,,,,,UNKNOWN
+,Kubernetes service,,,,,,UNKNOWN
+,SQL managed instance,,,,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Virtual network gateway,,,,,,UNKNOWN
+,Workspace,,,,,,UNKNOWN
+,AVS Private cloud,,,,,,UNKNOWN
+,Azure DevOps Server 2019,,Fixed,2019-03-05,,,UNKNOWN
+,System Center 2019 Data Protection Manager,,Fixed,2019-03-14,,,UNKNOWN
+,System Center 2019 Operations Manager,,Fixed,2019-03-14,,,UNKNOWN
+,System Center 2019 Orchestrator,,Fixed,2019-03-14,,,UNKNOWN
+,System Center 2019 Service Manager,,Fixed,2019-03-14,,,UNKNOWN
+,System Center 2019 Virtual Machine Manager,,Fixed,2019-03-14,,,UNKNOWN
+,Visual Studio 2019,Community,Fixed,2019-04-02,,,UNKNOWN
+,Visual Studio 2019,Enterprise,Fixed,2019-04-02,,,UNKNOWN
+,Visual Studio 2019,Professional,Fixed,2019-04-02,,,UNKNOWN
+,AVS Private cloud,,,,,,UNKNOWN
+,"Dynamics 365 for Customer Engagement Apps, version 9.x (on-premises update)",,Fixed,2018-10-31,,,UNKNOWN
+,Hyper-V Server 2019,,Fixed,2018-11-13,,,UNKNOWN
+,Internet Information Services (IIS),,Component,2003-05-28,,,UNKNOWN
+,Microsoft .NET Framework,,Component,2006-02-17,,,UNKNOWN
+,Microsoft Identity Manager 2016,,Fixed,2015-09-28,,,UNKNOWN
+,Windows 10 Enterprise LTSC 2019,,Fixed,2018-11-13,,,UNKNOWN
+,Windows 10 IoT Core LTSC,,Fixed,2018-11-13,,,UNKNOWN
+,Windows 10 IoT Enterprise LTSC 2019,,Fixed,2018-11-13,,,UNKNOWN
+,Windows Server 2019,Datacenter,Fixed,2018-11-13,,,UNKNOWN
+,Windows Server 2019,Essentials,Fixed,2018-11-13,,,UNKNOWN
+,Windows Server 2019,Standard,Fixed,2018-11-13,,,UNKNOWN
+,Windows Server IoT 2019,Datacenter,Fixed,2019-03-04,,,UNKNOWN
+,Windows Server IoT 2019,Essentials,Fixed,2019-03-04,,,UNKNOWN
+,Windows Server IoT 2019,Standard,Fixed,2019-03-04,,,UNKNOWN
+,Windows Server IoT 2019,Storage Workgroup,Fixed,2019-03-04,,,UNKNOWN
+,Windows Server IoT 2019,Telecommunications,Fixed,2019-03-04,,,UNKNOWN
+,Windows Server IoT 2019 for Storage,Standard,Fixed,2019-03-04,,,UNKNOWN
+,Windows Server IoT 2019 for Storage,Workgroup,Fixed,2019-03-04,,,UNKNOWN
+,Windows Server Update Services for Windows Server 2019,,Component,2019-03-04,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Batch account,,,,,,UNKNOWN
+,App service,,,,,,UNKNOWN
+,Cognitive Service,,,,,,UNKNOWN
+,Cognitive Service,,,,,,UNKNOWN
+,Cognitive Service,,,,,,UNKNOWN
+,Disk,,,,,,UNKNOWN
+,Managed HSM Service,,,,,,UNKNOWN
+,Redis Cache Server,,,,,,UNKNOWN
+,Virtual machine scale set,,,,,,UNKNOWN
+,Dynamics SL 2018,,Fixed,2018-05-01,,,UNKNOWN
+,AVS Private cloud,,,,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Batch account,,,,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Azure Maps Account,,,,,,UNKNOWN
+,Azure Maps Account,,,,,,UNKNOWN
+,Container registry,,,,,,UNKNOWN
+,Kubernetes - Azure Arc,,,,,,UNKNOWN
+,Kubernetes - Azure Arc,,,,,,UNKNOWN
+,Kubernetes service,,,,,,UNKNOWN
+,Spring Cloud Service,,,,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Virtual network gateway,,,,,,UNKNOWN
+,Dynamics GP 2018,,Fixed,2017-12-01,,,UNKNOWN
+,Dynamics GP 2018 R2,,Fixed,2018-10-02,,,UNKNOWN
+,Dynamics NAV 2018,,Fixed,2017-12-01,,,UNKNOWN
+,Visual Studio Team Foundation Server 2018,,Fixed,2017-11-15,,,UNKNOWN
+,Action group,,,,,,UNKNOWN
+,Dynamics GP 2016,,Fixed,2016-05-01,,,UNKNOWN
+,Dynamics GP 2016 R2,,Fixed,2016-12-01,,,UNKNOWN
+,Infopath 2013,Standard,Fixed,2013-01-09,,,UNKNOWN
+,Project Server 2016,,Fixed,2016-05-01,,,UNKNOWN
+,Project Server 2019,,Fixed,2018-10-22,,,UNKNOWN
+,SharePoint Server 2016,,Fixed,2016-05-01,,,UNKNOWN
+,SharePoint Server 2019,,Fixed,2018-10-22,,,UNKNOWN
+,SQL Server 2014,Business Intelligence,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Developer,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Enterprise,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Enterprise Core,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Express,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Standard,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Web,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2016,Developer,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Enterprise,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Enterprise Core,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Express,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Standard,Fixed,2016-06-01,,,UNKNOWN
+,SQL Server 2016,Web,Fixed,2016-06-01,,,UNKNOWN
+,Visual Studio 2022,Community,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Enterprise,Fixed,2021-11-08,,,UNKNOWN
+,Visual Studio 2022,Professional,Fixed,2021-11-08,,,UNKNOWN
+,SQL Server 2017,on Linux (all editions),Fixed,2017-09-29,,,UNKNOWN
+,SQL Server 2017,on Windows (all editions),Fixed,2017-09-29,,,UNKNOWN
+,Windows 11 Enterprise and Education,Education,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Enterprise and Education,Enterprise,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 Enterprise and Education,Enterprise multi-session,Modern,2021-10-04,,,UNKNOWN
+,Windows 11 IoT Enterprise,,Modern,2021-10-04,,,UNKNOWN
+,Automation account,,,,,,UNKNOWN
+,Flow Log,,,,,,UNKNOWN
+,Front Door Profile,,,,,,UNKNOWN
+,Load balancer,,,,,,UNKNOWN
+,Microsoft Teams Displays,,Modern,2020-10-28,,,UNKNOWN
+,Automanage for Virtual Machines,,Modern,2022-10-12,,,UNKNOWN
+,FluidRelay Server,,,,,,UNKNOWN
+,SQL Server 2014,Business Intelligence,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Developer,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Enterprise,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Enterprise Core,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Express,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Standard,Fixed,2014-06-05,,,UNKNOWN
+,SQL Server 2014,Web,Fixed,2014-06-05,,,UNKNOWN
+,Kubernetes service,,,,,,UNKNOWN
+,Lab,,,,,,UNKNOWN
+,Lab account,,,,,,UNKNOWN
+,Lab plan,,,,,,UNKNOWN
+,Batch account,,,,,,UNKNOWN
+,Batch account,,,,,,UNKNOWN
+,Batch account,,,,,,UNKNOWN
+,Kubernetes service,,,,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Visual Studio 2017,Community,Fixed,2017-03-07,,,UNKNOWN
+,Visual Studio 2017,Enterprise,Fixed,2017-03-07,,,UNKNOWN
+,Visual Studio 2017,Professional,Fixed,2017-03-07,,,UNKNOWN
+,Visual Studio 2017,Test Professional,Fixed,2017-03-07,,,UNKNOWN
+,Windows 11 IoT Enterprise LTSC 2024,,Fixed,2024-10-01,,,UNKNOWN
+,Windows Server 2025,Datacenter,Fixed,2024-11-01,,,UNKNOWN
+,Windows Server 2025,Datacenter: Azure Edition,Fixed,2024-11-01,,,UNKNOWN
+,Windows Server 2025,Essentials,Fixed,2024-11-01,,,UNKNOWN
+,Windows Server 2025,Standard,Fixed,2024-11-01,,,UNKNOWN
+,Application gateway,,,,,,UNKNOWN
+,Azure AI Content Moderator,,Modern,2023-05-24,,,UNKNOWN
+,Azure Managed Redis,,,,,,UNKNOWN
+,Cloud Service,,,,,,UNKNOWN
+,Cognitive Service,,,,,,UNKNOWN
+,Cognitive Service,,,,,,UNKNOWN
+,Kubernetes service,,,,,,UNKNOWN
+,SQL server,,,,,,UNKNOWN
+,Storage Account,,,,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,Virtual machine scale set,,,,,,UNKNOWN
+,Virtual machine scale set,,,,,,UNKNOWN
+,Microsoft Configuration Manager,,Modern,2015-12-08,,,UNKNOWN
+,Virtual machine,,,,,,UNKNOWN
+,,,,,,,UNKNOWN
+,No filters applied,,,,,,UNKNOWN
