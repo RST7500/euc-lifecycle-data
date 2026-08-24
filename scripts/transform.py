@@ -4,9 +4,71 @@ df = pd.read_excel(
     "raw/product-lifecycle.xlsx"
 )
 
-print("Columns found:")
+result = pd.DataFrame()
 
-for col in df.columns:
-    print(col)
+result["Vendor"] = "Microsoft"
 
-print(df.head())
+result["Product"] = (
+    df["Product"]
+)
+
+result["Version"] = (
+    df["Version"]
+)
+
+result["LifecyclePolicy"] = (
+    df["Lifecycle Policy"]
+)
+
+result["StartDate"] = (
+    df["Start Date"]
+)
+
+result["EndOfSupport"] = (
+    df["End Date"]
+)
+
+today = pd.Timestamp.today()
+
+result["EndOfSupport"] = (
+    pd.to_datetime(
+        result["EndOfSupport"]
+    )
+)
+
+result["DaysToEOS"] = (
+
+    result["EndOfSupport"]
+
+    - today
+
+).dt.days
+
+def lifecycle_status(days):
+
+    if pd.isna(days):
+        return "UNKNOWN"
+
+    elif days < 0:
+        return "END_OF_SUPPORT"
+
+    elif days < 90:
+        return "EOS_LT_3_MONTHS"
+
+    elif days < 180:
+        return "EOS_LT_6_MONTHS"
+
+    elif days < 365:
+        return "EOS_LT_12_MONTHS"
+
+    return "SUPPORTED"
+
+result["LifecycleStatus"] = (
+
+    result["DaysToEOS"]
+
+    .apply(
+        lifecycle_status
+    )
+
+)
