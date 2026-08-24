@@ -1,0 +1,38 @@
+name: MicrosoftLifecycleImport
+
+on:
+  schedule:
+    - cron: '0 6 * * 0'
+
+  workflow_dispatch:
+
+jobs:
+
+  lifecycle:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - uses: actions/checkout@v4
+
+    - name: Download Lifecycle File
+      run: |
+        curl -L \
+        -o product-lifecycle.xlsx \
+        https://download.microsoft.com/download/a0c60d25-38e1-4d44-91e3-76c6d4c71275/product-lifecycle-data-new.xlsx
+
+    - name: Transform File
+      run: |
+        python transform.py
+
+    - name: Commit Changes
+      run: |
+        git config user.name "Lifecycle Bot"
+        git config user.email "bot@github.com"
+
+        git add .
+
+        git commit -m "Lifecycle update" || true
+
+        git push
