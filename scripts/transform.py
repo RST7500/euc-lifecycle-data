@@ -72,3 +72,34 @@ result["LifecycleStatus"] = (
     )
 
 )
+
+result.to_csv(
+
+    "data/microsoft-lifecycle.csv",
+
+    index=False
+
+)
+
+result.to_json(
+
+    "data/microsoft-lifecycle.json",
+
+    orient="records",
+
+    indent=2
+
+)
+
+summary = (
+
+    result
+    .groupby(
+        "LifecycleStatus"
+    )
+    .size()
+    .reset_index(
+        name="Count"
+    )
+
+)
