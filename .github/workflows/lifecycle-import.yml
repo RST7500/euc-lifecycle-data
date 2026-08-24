@@ -16,16 +16,16 @@ jobs:
 
     - uses: actions/checkout@v4
 
-            - name: Download Lifecycle Export
-
-        run: |
-
-          mkdir -p raw
-
-          curl -L \
-          "https://download.microsoft.com/download/a0c60d25-38e1-4d44-91e3-76c6d4c71275/product-lifecycle-data-new.xlsx" \
-          -o raw/product-lifecycle.xlsx
-          
+    - name: Download Lifecycle File
+      run: |
+        mkdir -p raw
+        curl -L \
+        -o product-lifecycle.xlsx \
+        https://download.microsoft.com/download/a0c60d25-38e1-4d44-91e3-76c6d4c71275/product-lifecycle-data-new.xlsx
+    - name: Install Python modules
+      run: |
+        pip install pandas openpyxl
+        
     - name: Transform File
       run: |
         python transform.py
