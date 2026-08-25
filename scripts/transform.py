@@ -5,11 +5,9 @@ df = pd.read_excel("raw/product-lifecycle.xlsx")
 
 result = pd.DataFrame()
 
-# Vendor and Product/Version/LifecyclePolicy mapping
+# Vendor and Product/Edition/Release/Azure Feature/Version/LifecyclePolicy mapping
 result["Vendor"] = "Microsoft"
 result["Product"] = df["Product Listing Name"]
-result["Version"] = df.get("Edition")
-result["LifecyclePolicy"] = df.get("Support Policy")
 
 # Helper to pick a column name from possible variants (case/spacing differences)
 def pick_col(df, candidates):
@@ -17,6 +15,22 @@ def pick_col(df, candidates):
         if c in df.columns:
             return df[c]
     return None
+
+# Edition, Release, Azure Feature and Version
+edition_col = pick_col(df, ["Edition", "Edition ", "Product Edition"]) 
+release_col = pick_col(df, ["Release", "Release Number", "Release number"]) 
+azure_feature_col = pick_col(df, ["Azure Feature", "AzureFeature", "Azure feature"]) 
+version_col = pick_col(df, ["Edition", "Product Version", "Product version", "Version"]) 
+
+# Lifecycle policy
+lifecycle_col = pick_col(df, ["Support Policy", "Lifecycle Policy", "Support policy"])
+
+# Assign columns in the desired order
+result["Edition"] = edition_col
+result["Release"] = release_col
+result["Azure Feature"] = azure_feature_col
+result["Version"] = version_col
+result["LifecyclePolicy"] = lifecycle_col
 
 # StartDate: prefer "Release Start Date", fallback to "Start Date"
 start_src = pick_col(df, ["Release Start Date", "Release start date", "ReleaseStartDate"]) 
@@ -107,7 +121,25 @@ def compute_status(i, days):
 result["LifecycleStatus"] = [compute_status(i, days) for i, days in enumerate(result["DaysToEOS"]) ]
 
 # Export CSV and JSON
-result.to_csv("data/microsoft-lifecycle.csv", index=False)
+# Ensure column order is consistent/explicit
+cols = [
+    "Vendor",
+    "Product",
+    "Edition",
+    "Release",
+    "Azure Feature",
+    "Version",
+    "LifecyclePolicy",
+    "StartDate",
+    "EndOfSupport",
+    "DaysToEOS",
+    "LifecycleStatus",
+]
+
+# Some columns may be missing if they weren't in the source; filter to existing
+cols = [c for c in cols if c in result.columns]
+
+result.to_csv("data/microsoft-lifecycle.csv", index=False, columns=cols)
 result.to_json("data/microsoft-lifecycle.json", orient="records", indent=2)
 
 # Optionally produce a summary (kept from previous script)
