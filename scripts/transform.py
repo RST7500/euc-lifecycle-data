@@ -1,106 +1,121 @@
 import pandas as pd
 
-df = pd.read_excel(
-    "raw/product-lifecycle.xlsx"
-)
+# Read the source Excel file
+df = pd.read_excel("raw/product-lifecycle.xlsx")
 
 result = pd.DataFrame()
 
+# Vendor and Product/Version/LifecyclePolicy mapping
 result["Vendor"] = "Microsoft"
+result["Product"] = df["Product Listing Name"]
+result["Version"] = df.get("Edition")
+result["LifecyclePolicy"] = df.get("Support Policy")
 
-result["Product"] = (
-    df["Product Listing Name"]
-)
+# Helper to pick a column name from possible variants (case/spacing differences)
+def pick_col(df, candidates):
+    for c in candidates:
+        if c in df.columns:
+            return df[c]
+    return None
 
-result["Version"] = (
-    df["Edition"]
-)
+# StartDate: prefer "Release Start Date", fallback to "Start Date"
+start_src = pick_col(df, ["Release Start Date", "Release start date", "ReleaseStartDate"]) 
+start_fallback = pick_col(df, ["Start Date", "Start date", "StartDate"]) 
+if start_src is None:
+    start = start_fallback
+else:
+    # use release start date where present, otherwise fallback
+    if start_fallback is not None:
+        start = start_src.fillna(start_fallback)
+    else:
+        start = start_src
 
-result["LifecyclePolicy"] = (
-    df["Support Policy"]
-)
+start_dt = pd.to_datetime(start, errors='coerce')
+# Format to Short Date (Dutch(Belgium)) -> dd/mm/YYYY
+result["StartDate"] = start_dt.dt.strftime("%d/%m/%Y")
 
-result["StartDate"] = (
-    df["Start Date"]
-)
+# EndOfSupport: prefer Release End Date, then Extended End Date, then Retirement
+end_release = pick_col(df, ["Release End Date", "Release end date", "ReleaseEndDate"]) 
+end_extended = pick_col(df, ["Extended End Date", "Extended end date", "ExtendedEndDate"]) 
+end_retire = pick_col(df, ["Retirement", "Retirement Date"]) 
 
-result["EndOfSupport"] = (
-    df["End of Support"]
-)
+# Build end candidate by chaining fillna
+end_combined = None
+if end_release is not None:
+    end_combined = end_release
 
-today = pd.Timestamp.today()
+if end_combined is None and end_extended is not None:
+    end_combined = end_extended
+elif end_combined is not None and end_extended is not None:
+    end_combined = end_combined.fillna(end_extended)
 
-result["EndOfSupport"] = (
-    pd.to_datetime(
-        result["EndOfSupport"],
-        errors='coerce'
-    )
-)
+if end_retire is not None:
+    if end_combined is None:
+        end_combined = end_retire
+    else:
+        end_combined = end_combined.fillna(end_retire)
 
-result["DaysToEOS"] = (
+# If still None create a Series of NaT so conversion below works
+if end_combined is None:
+    end_combined = pd.Series([pd.NaT] * len(df))
 
-    result["EndOfSupport"]
+end_dt = pd.to_datetime(end_combined, errors='coerce')
+# where there's no date at all, set to 31/12/2099
+end_dt = end_dt.fillna(pd.Timestamp(year=2099, month=12, day=31))
+# store formatted date
+result["EndOfSupport"] = end_dt.dt.strftime("%d/%m/%Y")
 
-    - today
+# DaysToEOS: number of days between today and EndOfSupport
+today = pd.Timestamp.now().normalize()
+result["DaysToEOS"] = (end_dt - today).dt.days
 
-).dt.days
+# LifecycleStatus: if original "End of Support" equals "Out of Support" for that product, copy that value
+# otherwise derive status from DaysToEOS using the thresholds given.
+# Find the original End of Support column in the source sheet (several possible spellings)
+eos_original = pick_col(df, ["End of Support", "End Of Support", "End of support", "EndOfSupport"]) 
 
-def lifecycle_status(days):
+# Also capture the original "Product Listing Name" to compare
+original_product = df["Product Listing Name"]
 
+# Function to compute lifecycle status per requirements
+def compute_status(i, days):
+    # check original End of Support explicit Out of Support for the same product
+    if eos_original is not None:
+        val = eos_original.iloc[i]
+        if isinstance(val, str) and val.strip().lower() == "out of support":
+            return val.strip()
+    # if days is missing
     if pd.isna(days):
         return "UNKNOWN"
-
-    elif days < 0:
+    try:
+        d = int(days)
+    except Exception:
+        return "UNKNOWN"
+    # follow requested thresholds
+    if d <= 0:
         return "END_OF_SUPPORT"
-
-    elif days < 90:
+    elif 1 <= d <= 90:
         return "EOS_LT_3_MONTHS"
-
-    elif days < 180:
+    elif 91 <= d <= 180:
         return "EOS_LT_6_MONTHS"
-
-    elif days < 365:
+    elif 181 <= d <= 365:
         return "EOS_LT_12_MONTHS"
+    else:
+        return "SUPPORTED"
 
-    return "SUPPORTED"
+# Apply compute_status
+result["LifecycleStatus"] = [compute_status(i, days) for i, days in enumerate(result["DaysToEOS"]) ]
 
-result["LifecycleStatus"] = (
+# Export CSV and JSON
+result.to_csv("data/microsoft-lifecycle.csv", index=False)
+result.to_json("data/microsoft-lifecycle.json", orient="records", indent=2)
 
-    result["DaysToEOS"]
-
-    .apply(
-        lifecycle_status
-    )
-
-)
-
-result.to_csv(
-
-    "data/microsoft-lifecycle.csv",
-
-    index=False
-
-)
-
-result.to_json(
-
-    "data/microsoft-lifecycle.json",
-
-    orient="records",
-
-    indent=2
-
-)
-
+# Optionally produce a summary (kept from previous script)
 summary = (
-
     result
-    .groupby(
-        "LifecycleStatus"
-    )
+    .groupby("LifecycleStatus")
     .size()
-    .reset_index(
-        name="Count"
-    )
-
+    .reset_index(name="Count")
 )
+
+print(summary)
