@@ -133,9 +133,7 @@ cols = [
     "LifecycleStatus",
 ]
 
-# Some columns may be missing if they weren't in the source; filter to existing
-cols = [c for c in cols if c in result.columns]
-
+# Export to CSV and JSON with all columns included
 result.to_csv("data/microsoft-lifecycle.csv", index=False, columns=cols)
 result.to_json("data/microsoft-lifecycle.json", orient="records", indent=2)
 
