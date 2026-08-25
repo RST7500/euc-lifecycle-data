@@ -20,16 +20,14 @@ def pick_col(df, candidates):
 edition_col = pick_col(df, ["Edition", "Edition ", "Product Edition"]) 
 release_col = pick_col(df, ["Release", "Release Number", "Release number"]) 
 azure_feature_col = pick_col(df, ["Azure Feature", "AzureFeature", "Azure feature"]) 
-version_col = pick_col(df, ["Edition", "Product Version", "Product version", "Version"]) 
 
 # Lifecycle policy
 lifecycle_col = pick_col(df, ["Support Policy", "Lifecycle Policy", "Support policy"])
 
 # Assign columns in the desired order
-result["Edition"] = edition_col
+result["Version"] = edition_col
 result["Release"] = release_col
 result["Azure Feature"] = azure_feature_col
-result["Version"] = version_col
 result["LifecyclePolicy"] = lifecycle_col
 
 # StartDate: prefer "Release Start Date", fallback to "Start Date"
@@ -125,10 +123,9 @@ result["LifecycleStatus"] = [compute_status(i, days) for i, days in enumerate(re
 cols = [
     "Vendor",
     "Product",
-    "Edition",
+    "Version",
     "Release",
     "Azure Feature",
-    "Version",
     "LifecyclePolicy",
     "StartDate",
     "EndOfSupport",
